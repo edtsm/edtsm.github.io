@@ -12,9 +12,9 @@
 	<script src="js/crypto-js.min.js"></script>
     <script>
         (function(){
-            if(''){
+            if('b335f458de0b514042d17c52ff10b3be7248d814367e24fec993cfbe9abbf1e4'){
                 let enter = prompt('Hey, password is required here.');
-                if (CryptoJS.SHA256(enter).toString(CryptoJS.enc.Hex) != ''){
+                if (CryptoJS.SHA256(enter).toString(CryptoJS.enc.Hex) != 'b335f458de0b514042d17c52ff10b3be7248d814367e24fec993cfbe9abbf1e4'){
                     alert('Oh, this is an invalid password.');
                     history.back();
                 }
@@ -24,6 +24,20 @@
 	
     <!--Description-->
     
+        <meta name="description" content=".flex{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  padding:0px 150px;
+}
+
+
+
+2014 ~ 2020 HitFM 年度百大單曲 (日.中.英.韓)
+
+↙ B">
+    
 
     <!--Author-->
     
@@ -32,7 +46,7 @@
 
     <!--Open Graph Title-->
     
-        <meta property="og:title" content="EDTsm"/>
+        <meta property="og:title" content="Hello Music World"/>
     
 
     <!--Open Graph Description-->
@@ -43,7 +57,7 @@
 
     <!--Type page-->
     
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="article" />
     
 
     <!--Page Cover-->
@@ -57,7 +71,7 @@
 
     <!-- Title -->
     
-    <title>EDTsm</title>
+    <title>Hello Music World - EDTsm</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
@@ -138,62 +152,107 @@
     <div class="col-sm-12">
 
         <!--Title and Logo-->
-        <header>
+        
+            <header>
     <div class="logo">
         <a href="/"><i class="logo-icon fa fa-cube" aria-hidden="true"></i></a>
         
-            <h1 id="main-title" class="title">EDTsm</h1>
-        
     </div>
 </header>
-
-        <section class="main">
-            
+            <section class="main">
                 
 <div class="post">
 
-    <div class="post-header index">
+    <div class="post-header">
         <h1 class="title">
-            <a href="/DSKY/">
-                DSKY
+            <a href="/index/index.html">
+                Hello Music World
             </a>
         </h1>
         <div class="post-info">
             
-                <span class="date">2021-03-26</span>
+                <span class="date">2021-03-28</span>
             
             
             
         </div>
     </div>
 
-    
-        <div class="content">
-            <span id="more"></span>
-<p>16<br><video src="https://notp.synology.me/16" width="640" height="360" controls preload="metadata"></video></p>
-<p>17<br><video src="https://notp.synology.me/17" width="640" height="360" controls preload="metadata"></video></p>
-<p>18<br><video src="https://notp.synology.me/18" width="640" height="360" controls preload="metadata"></video></p>
-<p>19<br><video src="https://notp.synology.me/19" width="640" height="360" controls preload="metadata"></video></p>
-<p>20<br><video src="https://notp.synology.me/20" width="640" height="360" controls preload="metadata"></video></p>
-<p>21<br><video src="https://notp.synology.me/21" width="640" height="360" controls preload="metadata"></video></p>
-<p>22<br><video src="https://notp.synology.me/22" width="640" height="360" controls preload="metadata"></video></p>
-<p>23<br><video src="https://notp.synology.me/23" width="640" height="360" controls preload="metadata"></video></p>
-<p>24<br><video src="https://notp.synology.me/24" width="640" height="360" controls preload="metadata"></video></p>
-<p>25<br><video src="https://notp.synology.me/25" width="640" height="360" controls preload="metadata"></video></p>
-<p>26<br><video src="https://notp.synology.me/26" width="640" height="360" controls preload="metadata"></video></p>
+    <div class="content">
 
-        </div>
+        <!-- Gallery -->
+        
+
+        <!-- Post Content -->
+        <style>
+.flex{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  padding:0px 150px;
+}
+</style>
+
+<div style="width:100%; text-align:center; font-weight:bold;">
+2014 ~ 2020 HitFM 年度百大單曲 (日.中.英.韓)
+
+<p>↙ Bottom left</p>
+</div>
+
+
+
+<link rel="stylesheet" href="music/dist/APlayer.min.css">
+<div id="hit" style="width:100%;"></div>
+<script type="text/javascript" src="music/dist/APlayer.min.js"></script>
+<script type="text/javascript" src="music/HitFM.js"></script>
+
+<p>&nbsp;</p>
+<div style="width:100%; text-align:center; font-weight:bold;">
+KKBOX Western Songs Weekly TOP50 (2021-03-12~2021-03-18)
+</div>
+
+<div class="flex">
+<div id="western" style="width:100%;"></div>
+<script type="text/javascript" src="music/dist/APlayer.min.js"></script>
+<script type="text/javascript" src="music/westernT50.js"></script>
+</div>
+
+<p>&nbsp;</p>
+<div style="width:100%; text-align:center; font-weight:bold;">
+KKBOX Chinese Songs Weekly TOP50 (2021-03-12~2021-03-18)
+</div>
+
+<div class="flex">
+<div id="chinese" style="width:100%;"></div>
+<script type="text/javascript" src="music/dist/APlayer.min.js"></script>
+<script type="text/javascript" src="music/chineseT50.js"></script>
+</div>
+
+<p>&nbsp;</p>
+<div style="width:100%; text-align:center; font-weight:bold;">
+YouTube Song List
+</div>
+
+<div class="flex">
+<div id="aplayer" style="width:100%;"></div>
+<script type="text/javascript" src="music/dist/APlayer.min.js"></script>
+<script type="text/javascript" src="music/music.js"></script>
+</div>
+    </div>
+
+    
+
+    
+
+    <!-- Comments -->
     
 
 </div>
-            
-        </section>
+            </section>
+        
     </div>
 </div>
-
-
-
-
 
 
 </div>
