@@ -13,1002 +13,1202 @@ const a = new APlayer({
     lrcType: 0,
     audio: [
       {
-        name: "田馥甄 Hebe - 無人知曉",
+        name: "無人知曉",
+        artist: "田馥甄 Hebe",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/001. 無人知曉.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "盧廣仲 - 刻在我心底的名字",
+        name: "刻在我心底的名字",
+        artist: "盧廣仲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/002. 刻在我心底的名字.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "林俊傑 - 交換餘生",
+        name: "交換餘生",
+        artist: "林俊傑",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/003. 交換餘生.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "JJ Lin林俊傑,Steve Aoki - Not Tonight (Tomorrow Sounds Good Steve Aoki Remix)",
+        name: "Not Tonight (Tomorrow Sounds Good Steve Aoki Remix)",
+        artist: "JJ Lin林俊傑,Steve Aoki",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/004. Not Tonight (Tomorrow Sounds Good Steve Aoki Remix).mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "LiSA - 炎",
+        name: "炎",
+        artist: "LiSA",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/005. 炎.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蕭敬騰 - 猴籠",
+        name: "猴籠",
+        artist: "蕭敬騰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/006. 猴籠.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Bii 畢書盡 - 撞",
+        name: "撞",
+        artist: "Bii 畢書盡",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/007. 撞.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "田馥甄 Hebe - 懸日",
+        name: "懸日",
+        artist: "田馥甄 Hebe",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/008. 懸日.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BTS 防彈少年團 - Dynamite",
+        name: "Dynamite",
+        artist: "BTS 防彈少年團",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/009. Dynamite.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "炎亞綸 - 摩登原始人",
+        name: "摩登原始人",
+        artist: "炎亞綸",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/010. 摩登原始人.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蕭敬騰 - 薩哈星球",
+        name: "薩哈星球",
+        artist: "蕭敬騰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/011. 薩哈星球.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BTS 防彈少年團 - ON",
+        name: "ON",
+        artist: "BTS 防彈少年團",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/012. ON.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "吳青峰 - 最難的是相遇",
+        name: "最難的是相遇",
+        artist: "吳青峰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/013. 最難的是相遇.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "田馥甄 Hebe - 皆可",
+        name: "皆可",
+        artist: "田馥甄 Hebe",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/014. 皆可.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "林俊傑 - 倖存者",
+        name: "倖存者",
+        artist: "林俊傑",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/015. 倖存者.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BoA 寶兒 - Better",
+        name: "Better",
+        artist: "BoA 寶兒",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/016. Better.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "五月天 - 因為你 所以我",
+        name: "因為你 所以我",
+        artist: "五月天",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/017. 因為你 所以我.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Justin Bieber - Yummy",
+        name: "Yummy",
+        artist: "Justin Bieber",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/018. Yummy.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "林俊傑 - 暫時的記號",
+        name: "暫時的記號",
+        artist: "林俊傑",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/019. 暫時的記號.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "太妍 - HAPPY",
+        name: "HAPPY",
+        artist: "太妍",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/020. Happy.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "吳青峰 - 柔軟",
+        name: "柔軟",
+        artist: "吳青峰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/021. 柔軟.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Taylor Swift - Cardigan",
+        name: "Cardigan",
+        artist: "Taylor Swift",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/022. Cardigan.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Bii 畢書盡 - 你",
+        name: "你",
+        artist: "Bii 畢書盡",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/023. 你.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周興哲 - 小時候的我們",
+        name: "小時候的我們",
+        artist: "周興哲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/024. 小時候的我們.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BTS 防彈少年團 - Life Goes On",
+        name: "Life Goes On",
+        artist: "BTS 防彈少年團",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/025. Life Goes On.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "韋禮安 - 不用告訴我",
+        name: "不用告訴我",
+        artist: "韋禮安",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/026. 不用告訴我.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ariana Grande - Positions",
+        name: "Positions",
+        artist: "Ariana Grande",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/027. Positions.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蕭敬騰, 林俊傑 - Hello",
+        name: "Hello",
+        artist: "蕭敬騰, 林俊傑",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/028. Hello.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "SUPER JUNIOR - The Melody",
+        name: "The Melody",
+        artist: "SUPER JUNIOR",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/029. The Melody.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "ELLA陳嘉樺 - A CA ELLA",
+        name: "A CA ELLA",
+        artist: "ELLA陳嘉樺",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/030. A CA ELLA.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "炎亞綸 feat. JULIA 吳卓源 - 不安室的奈美惠",
+        name: "不安室的奈美惠",
+        artist: "炎亞綸 feat. JULIA 吳卓源",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/031. 不安室的奈美惠.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Taylor Swift - Willow",
+        name: "Willow",
+        artist: "Taylor Swift",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/032. Willow.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "林俊傑 - 修煉愛情  (Jazz Version)",
+        name: "修煉愛情  (Jazz Version)",
+        artist: "林俊傑",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/033. 修煉愛情  (Jazz Version).mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "IU - Give You My Heart",
+        name: "Give You My Heart",
+        artist: "IU",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/034. Give You My Heart.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "八三夭 - 想見你想見你想見你",
+        name: "想見你想見你想見你",
+        artist: "八三夭",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/035. 想見你想見你想見你.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Justin Bieber & Benny Blanco - Lonely",
+        name: "Lonely",
+        artist: "Justin Bieber & Benny Blanco",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/036. Lonely.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周興哲 - 我很快樂",
+        name: "我很快樂",
+        artist: "周興哲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/037. 我很快樂.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "韋禮安 - 貓咪共和國",
+        name: "貓咪共和國",
+        artist: "韋禮安",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/038. 貓咪共和國.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ed Sheeran - Afterglow",
+        name: "Afterglow",
+        artist: "Ed Sheeran",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/039. Afterglow.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "婁峻碩 - Colorful",
+        name: "Colorful",
+        artist: "婁峻碩",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/040. Colorful.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "TWICE - More & More",
+        name: "More & More",
+        artist: "TWICE",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/041. More & More.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "楊丞琳 - 像是一顆星星",
+        name: "像是一顆星星",
+        artist: "楊丞琳",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/042. 像是一顆星星.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "APINK - 에이핑크 덤더럼(Dumhdurum)",
+        name: "에이핑크 덤더럼(Dumhdurum)",
+        artist: "APINK",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/043. 에이핑크 덤더럼(Dumhdurum).mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "ELLA 陳嘉樺 - 娛樂無限公司",
+        name: "娛樂無限公司",
+        artist: "ELLA 陳嘉樺",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/044. 娛樂無限公司.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "吳青峰 - 一點點",
+        name: "一點點",
+        artist: "吳青峰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/045. 一點點.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "ITZY - Wannabe",
+        name: "Wannabe",
+        artist: "ITZY",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/046. Wannabe.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Billie Eilish - No Time To Die",
+        name: "No Time To Die",
+        artist: "Billie Eilish",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/047. No Time To Die.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "SELINA 任家萱 - 四季",
+        name: "四季",
+        artist: "SELINA 任家萱",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/048. 四季.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "太妍 - What Do I Call You",
+        name: "What Do I Call You",
+        artist: "太妍",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/049. What Do I Call You.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "李友廷 - 誰",
+        name: "誰",
+        artist: "李友廷",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/050. 誰.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "米津玄師 - 感電",
+        name: "感電",
+        artist: "米津玄師",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/051. 感電.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周杰倫 - Mojito",
+        name: "Mojito",
+        artist: "周杰倫",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/052. Mojito.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Lady Gaga, Ariana Grande - Rain On Me",
+        name: "Rain On Me",
+        artist: "Lady Gaga, Ariana Grande",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/053. Rain On Me.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "韋禮安 - 這樣好嗎",
+        name: "這樣好嗎",
+        artist: "韋禮安",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/054. 這樣好嗎.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "AIMYON 愛繆 - 朝陽",
+        name: "朝陽",
+        artist: "AIMYON 愛繆",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/055. 朝陽.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "魚丁糸 - 沙發裡有沙發 Radio",
+        name: "沙發裡有沙發 Radio",
+        artist: "魚丁糸",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/056. 沙發裡有沙發 Radio.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "W0LF(S) 五堅情 - All Day",
+        name: "All Day",
+        artist: "W0LF(S) 五堅情",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/057. All Day.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BTS 防彈少年團 - Black Swan",
+        name: "Black Swan",
+        artist: "BTS 防彈少年團",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/058. Black Swan.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "楊丞琳 王心凌 - 女孩們",
+        name: "女孩們",
+        artist: "楊丞琳 王心凌",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/059. 女孩們.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Dua Lipa - Physical",
+        name: "Physical",
+        artist: "Dua Lipa",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/060. Physical.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "徐若瑄 - 別人的",
+        name: "別人的",
+        artist: "徐若瑄",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/061. 別人的.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "ARASHI 嵐 - 風箏 カイト",
+        name: "風箏 カイト",
+        artist: "ARASHI 嵐",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/062. 風箏 カイト.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "告五人 - 運氣來得若有似無",
+        name: "運氣來得若有似無",
+        artist: "告五人",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/063. 運氣來得若有似無.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "宇多田 ヒカル - Time",
+        name: "Time",
+        artist: "宇多田 ヒカル",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/064. Time.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "A-LIN - 抱歉，我不抱歉",
+        name: "抱歉，我不抱歉",
+        artist: "A-LIN",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/065. 抱歉，我不抱歉.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蘇慧倫 - 真面目",
+        name: "真面目",
+        artist: "蘇慧倫",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/066. 真面目.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ava Max - OMG What's Happening",
+        name: "OMG What's Happening",
+        artist: "Ava Max",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/067. OMG Whats Happening.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蘇打綠 - Tomorrow will be fine.",
+        name: "Tomorrow will be fine.",
+        artist: "蘇打綠",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/068. Tomorrow will be fine..mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "IZ*ONE - Fiesta",
+        name: "Fiesta",
+        artist: "IZ*ONE",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/069. Fiesta.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周興哲 - 受夠",
+        name: "受夠",
+        artist: "周興哲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/070. 受夠.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "NCT 2020 - Resonance",
+        name: "Resonance",
+        artist: "NCT 2020",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/071. Resonance.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "瘦子E.SO - Change",
+        name: "Change",
+        artist: "瘦子E.SO",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/072. Change.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Sam Smith - Diamonds",
+        name: "Diamonds",
+        artist: "Sam Smith",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/073. Diamonds.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "W0LF四堅情 - 速食愛情",
+        name: "速食愛情",
+        artist: "W0LF四堅情",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/074. 速食愛情.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "KING & PRINCE - Mazy Nighto",
+        name: "Mazy Nighto",
+        artist: "KING & PRINCE",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/075. Mazy Nighto.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "TANK - 你的情歌",
+        name: "你的情歌",
+        artist: "TANK",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/076. 你的情歌.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Cardi B feat. Megan Thee Stallion - Wap",
+        name: "Wap",
+        artist: "Cardi B feat. Megan Thee Stallion",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/077. Wap.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "王心凌 - MY! CYNDI!",
+        name: "MY! CYNDI!",
+        artist: "王心凌",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/078. MY! CYNDI!.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "GJ蔣卓嘉 - 遠距離",
+        name: "遠距離",
+        artist: "GJ蔣卓嘉",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/079. 遠距離.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "TWICE - I Can't Stop Me",
+        name: "I Can't Stop Me",
+        artist: "TWICE",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/080. I Can_t Stop Me.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "JULIA吳卓源 feat. 婁峻碩 - 七十億分之一加一",
+        name: "七十億分之一加一",
+        artist: "JULIA吳卓源 feat. 婁峻碩",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/081. 七十億分之一加一.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "許光漢 - 別再想見我",
+        name: "別再想見我",
+        artist: "許光漢",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/082. 別再想見我.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "閻奕格 feat. 高爾宣OSN - 愛上現在的我",
+        name: "愛上現在的我",
+        artist: "閻奕格 feat. 高爾宣OSN",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/083. 愛上現在的我.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Jawsh 685, Jason Derulo, BTS防彈少年團 - Savage Love(Laxed - Siren Beat) [BTS Remix]",
+        name: "Savage Love(Laxed - Siren Beat) [BTS Remix]",
+        artist: "Jawsh 685, Jason Derulo, BTS防彈少年團",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/084. Savage Love(Laxed - Siren Beat) [BTS Remix].mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "(G)I-DLE - 덤디덤디 (DUMDi DUMDi)",
+        name: "덤디덤디 (DUMDi DUMDi)",
+        artist: "(G)I-DLE",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/085. 덤디덤디 (DUMDi DUMDi).mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "文慧如 ft. 邱鋒澤 - Messed Up",
+        name: "Messed Up",
+        artist: "文慧如 ft. 邱鋒澤",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/086. Messed Up.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BAEKHYUN - Candy",
+        name: "Candy",
+        artist: "BAEKHYUN",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/087. Candy.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "ARIEL 蔡佩軒 - 回不去的海",
+        name: "回不去的海",
+        artist: "ARIEL 蔡佩軒",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/088. 回不去的海.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Charlie Puth - Girlfriend",
+        name: "Girlfriend",
+        artist: "Charlie Puth",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/089. Girlfriend.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "黃偉晉 - 背光旅行",
+        name: "背光旅行",
+        artist: "黃偉晉",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/090. 背光旅行.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "GOT7 - Not By The Moon",
+        name: "Not By The Moon",
+        artist: "GOT7",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/091. Not By The Moon.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "光良 - 反方向",
+        name: "反方向",
+        artist: "光良",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/092. 反方向.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "麋先生 - 嗜愛動物",
+        name: "嗜愛動物",
+        artist: "麋先生",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/093. 嗜愛動物.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Doja Cat feat. Nicki Minaj - Say So",
+        name: "Say So",
+        artist: "Doja Cat feat. Nicki Minaj",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/094. Say So.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "劉以豪 - U",
+        name: "U",
+        artist: "劉以豪",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/095. U.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "The Weeknd - In Your Eyes",
+        name: "In Your Eyes",
+        artist: "The Weeknd",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/096. In Your Eyes.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "GAHO - 開始 Beginning",
+        name: "開始 Beginning",
+        artist: "GAHO",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/097. 開始 Beginning.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "安溥 - 外婆橋",
+        name: "外婆橋",
+        artist: "安溥",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/098. 外婆橋.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "孫盛希 - 還不夠",
+        name: "還不夠",
+        artist: "孫盛希",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/099. 還不夠.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "MARZ23 - 那種人",
+        name: "那種人",
+        artist: "MARZ23",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2020HitFM/100. 那種人.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "畢書盡 - 我比從前想你了",
+        name: "我比從前想你了",
+        artist: "畢書盡",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/001. 畢書盡 - 我比從前想你了.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周杰倫 - 說好不哭(With 五月天阿信)",
+        name: "說好不哭(With 五月天阿信)",
+        artist: "周杰倫",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/002. 周杰倫 - 說好不哭(With 五月天阿信).mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "SuperJunior - Super Clap",
+        name: "Super Clap",
+        artist: "SuperJunior",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/003. SuperJunior - Super Clap.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "林俊傑 - 對的時間點",
+        name: "對的時間點",
+        artist: "林俊傑",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/004. 林俊傑 - 對的時間點.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Shawn Mendes _ Camila Cabello - Señorita",
+        name: "Señorita",
+        artist: "Shawn Mendes, Camila Cabello",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/005. Shawn Mendes _ Camila Cabello - Señorita.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "獅子LION - 美麗醜與我",
+        name: "美麗醜與我",
+        artist: "獅子LION",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/006. 獅子LION - 美麗醜與我.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "SuperJunior - I Think I",
+        name: "I Think I",
+        artist: "SuperJunior",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/007. SuperJunior - I Think I.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "吳青峰 - 太空人",
+        name: "太空人",
+        artist: "吳青峰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/008. 吳青峰 - 太空人.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "鄧紫棋 - 句號",
+        name: "句號",
+        artist: "鄧紫棋",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/009. 鄧紫棋 - 句號.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "AURORA - Into the Unknown",
+        name: "Into the Unknown",
+        artist: "AURORA",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/010. AURORA - Into the Unknown.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "楊丞琳 - 刪拾",
+        name: "刪拾",
+        artist: "楊丞琳",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/011. 楊丞琳 - 刪拾.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "林宥嘉 - 別讓我走遠",
+        name: "別讓我走遠",
+        artist: "林宥嘉",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/012. 林宥嘉 - 別讓我走遠.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "S-J D_E - Danger",
+        name: "Danger",
+        artist: "S-J D_E",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/013. S-J D_E - Danger.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "畢書盡 - Better Fly",
+        name: "Better Fly",
+        artist: "畢書盡",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/014. 畢書盡 - Better Fly.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "魏如萱 - 彼個所在",
+        name: "彼個所在",
+        artist: "魏如萱",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/015. 魏如萱 - 彼個所在.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BTS - Boy With Luv",
+        name: "Boy With Luv",
+        artist: "BTS",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/016. BTS - Boy With Luv.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周興哲 - 怎麼了",
+        name: "怎麼了",
+        artist: "周興哲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/017. 周興哲 - 怎麼了.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Billie Eilish - bad guy",
+        name: "bad guy",
+        artist: "Billie Eilish",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/018. Billie Eilish - bad guy.mp3',
         cover: '/cover.jpg'
       },
       {
         name: "If You Catch Me When I Fall",
+        artist: "Bii 畢書盡",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/019. If You Catch Me When I Fall.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "獅子LION - 蕭志達",
+        name: "蕭志達",
+        artist: "獅子LION",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/020. 獅子LION - 蕭志達.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "梁靜茹 - 慢冷",
+        name: "慢冷",
+        artist: "梁靜茹",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/021. 梁靜茹 - 慢冷.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "EXO - Obsession",
+        name: "Obsession",
+        artist: "EXO",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/022. EXO - Obsession.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "五月天阿信 - 一半人生",
+        name: "一半人生",
+        artist: "五月天阿信",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/023. 五月天阿信 - 一半人生.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "郁可唯 - 路過人間",
+        name: "路過人間",
+        artist: "郁可唯",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/024. 郁可唯 - 路過人間.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Taylor Swift - Lover",
+        name: "Lover",
+        artist: "Taylor Swift",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/025. Taylor Swift - Lover.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "楊丞琳 - 節日快樂",
+        name: "節日快樂",
+        artist: "楊丞琳",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/026. 楊丞琳 - 節日快樂.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "魏如萱 - Ophelia",
+        name: "Ophelia",
+        artist: "魏如萱",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/027. 魏如萱 - Ophelia.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "ARASHI嵐 - 5x20",
+        name: "5x20",
+        artist: "ARASHI嵐",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/028. ARASHI嵐 - 5x20.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "曾沛慈 - 謎之音",
+        name: "謎之音",
+        artist: "曾沛慈",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/029. 曾沛慈 - 謎之音.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "吳青峰 - 歌頌者",
+        name: "歌頌者",
+        artist: "吳青峰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/030. 吳青峰 - 歌頌者.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BTS - A Brand New Day",
+        name: "A Brand New Day",
+        artist: "BTS",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/031. BTS - A Brand New Day.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "畢書盡 - Be The One",
+        name: "Be The One",
+        artist: "畢書盡",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/032. 畢書盡 - Be The One.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Naomi Scott - Speechless",
+        name: "Speechless",
+        artist: "Naomi Scott",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/033. Naomi Scott - Speechless.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "鄧紫棋 - 摩天動物園",
+        name: "摩天動物園",
+        artist: "鄧紫棋",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/034. 鄧紫棋 - 摩天動物園.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BAEKHYUN - UN Village",
+        name: "UN Village",
+        artist: "BAEKHYUN",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/035. BAEKHYUN - UN Village.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "盧廣仲 - 愛情怎麼了嗎",
+        name: "愛情怎麼了嗎",
+        artist: "盧廣仲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/036. 盧廣仲 - 愛情怎麼了嗎.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "林宥嘉 - 少女",
+        name: "少女",
+        artist: "林宥嘉",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/037. 林宥嘉 - 少女.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "黃明志 - 流浪狗",
+        name: "流浪狗",
+        artist: "黃明志",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/038. 黃明志 - 流浪狗.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "太妍 - Spark",
+        name: "Spark",
+        artist: "太妍",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/039. 太妍 - Spark.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "馬念先_9m88 - 你朝我的方向走來",
+        name: "你朝我的方向走來",
+        artist: "馬念先_9m88",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/040. 馬念先_9m88 - 你朝我的方向走來.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ed Sheeran - I Don_t Care",
+        name: "I Don_t Care",
+        artist: "Ed Sheeran",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/041. Ed Sheeran - I Don_t Care.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "楊丞琳 - Love Is Love",
+        name: "Love Is Love",
+        artist: "楊丞琳",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/042. 楊丞琳 - Love Is Love.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "梁靜茹 - 我好嗎",
+        name: "我好嗎",
+        artist: "梁靜茹",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/043. 梁靜茹 - 我好嗎.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "BoA - Starry Night",
+        name: "Starry Night",
+        artist: "BoA",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/044. BoA - Starry Night.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周湯豪 - I GO",
+        name: "I GO",
+        artist: "周湯豪",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/045. 周湯豪 - I GO.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "周興哲 - 終於了解自由",
+        name: "終於了解自由",
+        artist: "周興哲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/046. 周興哲 - 終於了解自由.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "吳青峰 - 太空",
+        name: "太空",
+        artist: "吳青峰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/047. 吳青峰 - 太空.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "AB6IX - BREATHE",
+        name: "BREATHE",
+        artist: "AB6IX",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/048. AB6IX - BREATHE.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "高爾宣 - Without You",
+        name: "Without You",
+        artist: "高爾宣",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/049. 高爾宣 - Without You.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "鼓鼓 - 跪了",
+        name: "跪了",
+        artist: "鼓鼓",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/050. 鼓鼓 - 跪了.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Maroon 5 - Memories",
+        name: "Memories",
+        artist: "Maroon 5",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/051. Maroon 5 - Memories.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "伍佰 - 讓水倒流",
+        name: "讓水倒流",
+        artist: "伍佰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/052. 伍佰 - 讓水倒流.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "圭賢 - The day we meet again",
+        name: "The day we meet again",
+        artist: "圭賢",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/053. 圭賢 - The day we meet again.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "丁噹 - 我們不像我們",
+        name: "我們不像我們",
+        artist: "丁噹",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/054. 丁噹 - 我們不像我們.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "KANG DANIEL - What are you up to",
+        name: "What are you up to",
+        artist: "KANG DANIEL",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/055. KANG DANIEL - What are you up to.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "陳零九 - 天黑請閉眼",
+        name: "天黑請閉眼",
+        artist: "陳零九",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/056. 陳零九 - 天黑請閉眼.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蕭亞軒 - 當你和心跳一起出現",
+        name: "當你和心跳一起出現",
+        artist: "蕭亞軒",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/057. 蕭亞軒 - 當你和心跳一起出現.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "藝聲 - Pink Magic",
+        name: "Pink Magic",
+        artist: "藝聲",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/058. 藝聲 - Pink Magic.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "頑童MJ116 - 騙吃騙吃",
+        name: "騙吃騙吃",
+        artist: "頑童MJ116",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/059. 頑童MJ116 - 騙吃騙吃.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ariana Grande - Boyfriend",
+        name: "Boyfriend",
+        artist: "Ariana Grande",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/060. Ariana Grande - Boyfriend.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "GOT7 - You Calling My Name",
+        name: "You Calling My Name",
+        artist: "GOT7",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/061. GOT7 - You Calling My Name.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Julia Wu - Things Things Things",
+        name: "Things Things Things",
+        artist: "Julia Wu",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/062. Julia Wu - Things Things Things.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "CHEN - Make it count",
+        name: "Make it count",
+        artist: "CHEN",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/063. CHEN - Make it count.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "曾沛慈 - 怎麼能這樣",
+        name: "怎麼能這樣",
+        artist: "曾沛慈",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/064. 曾沛慈 - 怎麼能這樣.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "吳青峰 - 巴別塔慶典",
+        name: "巴別塔慶典",
+        artist: "吳青峰",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/065. 吳青峰 - 巴別塔慶典.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "IZ＊ONE - Violeta",
+        name: "Violeta",
+        artist: "IZ＊ONE",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/066. IZ＊ONE - Violeta.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "茄子蛋 - 這款自作多情",
+        name: "這款自作多情",
+        artist: "茄子蛋",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/067. 茄子蛋 - 這款自作多情.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Alan Walker - On My Way",
+        name: "On My Way",
+        artist: "Alan Walker",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/068. Alan Walker - On My Way.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "白安 - 所愛之初",
+        name: "所愛之初",
+        artist: "白安",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/069. 白安 - 所愛之初.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "告五人 - 愛人錯過",
+        name: "愛人錯過",
+        artist: "告五人",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/070. 告五人 - 愛人錯過.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Red Velvet - Psycho",
+        name: "Psycho",
+        artist: "Red Velvet",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/071. Red Velvet - Psycho.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "家家 - 沒有錯",
+        name: "沒有錯",
+        artist: "家家",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/072. 家家 - 沒有錯.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "米津玄師 - 馬と鹿",
+        name: "馬と鹿",
+        artist: "米津玄師",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/073. 米津玄師 - 馬と鹿.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蕭煌奇 - 候鳥",
+        name: "候鳥",
+        artist: "蕭煌奇",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/074. 蕭煌奇 - 候鳥.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ed Sheeran - Beatiful People",
+        name: "Beatiful People",
+        artist: "Ed Sheeran",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/075. Ed Sheeran - Beatiful People.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "八三夭 - 蠢蛋",
+        name: "蠢蛋",
+        artist: "八三夭",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/076. 八三夭 - 蠢蛋.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "J.Sheon - 輸情歌",
+        name: "輸情歌",
+        artist: "J.Sheon",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/077. 輸情歌.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "玖壹壹 - 來個蹦蹦",
+        name: "來個蹦蹦",
+        artist: "玖壹壹",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/078. 玖壹壹 - 來個蹦蹦.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "近畿小子 - 光之跡象",
+        name: "光之跡象",
+        artist: "近畿小子",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/079. 光之跡象.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "家家 - 我想要的快樂",
+        name: "我想要的快樂",
+        artist: "家家",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/080. 家家 - 我想要的快樂.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ava Max - So Am I",
+        name: "So Am I",
+        artist: "Ava Max",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/081. Ava Max - So Am I.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "許書豪 - 別再叫我哥",
+        name: "別再叫我哥",
+        artist: "許書豪",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/082. 許書豪 - 別再叫我哥.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "鼓鼓 - 超機車",
+        name: "超機車",
+        artist: "鼓鼓",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/083. 鼓鼓 - 超機車.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "羅志祥 - 羅志祥",
+        name: "羅志祥",
+        artist: "羅志祥",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/084. 羅志祥 - 羅志祥.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "ITZY - DALLA DALLA",
+        name: "DALLA DALLA",
+        artist: "ITZY",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/085. ITZY - DALLA DALLA.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "李友廷 - 直到我遇見了你",
+        name: "直到我遇見了你",
+        artist: "李友廷",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/086. 李友廷 - 直到我遇見了你.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "熱狗 - 怨偶",
+        name: "怨偶",
+        artist: "熱狗",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/087. 熱狗 - 怨偶.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "潤娥 - 仲夏夜",
+        name: "仲夏夜",
+        artist: "潤娥",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/088. 潤娥 - 仲夏夜.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "蔡旻佑 - 變心記",
+        name: "變心記",
+        artist: "蔡旻佑",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/089. 蔡旻佑 - 變心記.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Harry Styles - Lights Up",
+        name: "Lights Up",
+        artist: "Harry Styles",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/090. Harry Styles - Lights Up.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "(G)I-DLE - Help Me",
+        name: "Help Me",
+        artist: "(G)I-DLE",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/091. (G)I-DLE - Help Me.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "C.T.O - Start It",
+        name: "Start It",
+        artist: "C.T.O",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/092. C.T.O - Start It.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "傻子與白痴 - 夜長夢少",
+        name: "夜長夢少",
+        artist: "傻子與白痴",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/093. 傻子與白痴 - 夜長夢少.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Lil Nas X - Old Town Road(Remix)",
+        name: "Old Town Road(Remix)",
+        artist: "Lil Nas X",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/094. Lil Nas X - Old Town Road(Remix).mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "孫燕姿 - 守護永恆的愛",
+        name: "守護永恆的愛",
+        artist: "孫燕姿",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/095. 孫燕姿 - 守護永恆的愛.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Ariana Grande - 7 rings",
+        name: "7 rings",
+        artist: "Ariana Grande",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/096. Ariana Grande - 7 rings.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "椎名林檎 - 浪漫和算盤",
+        name: "浪漫和算盤",
+        artist: "椎名林檎",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/097. 椎名林檎 - 浪漫和算盤.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "楊乃文 - 路痴",
+        name: "路痴",
+        artist: "楊乃文",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/098. 楊乃文 - 路痴.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "TRASH - 重感情的廢物",
+        name: "重感情的廢物",
+        artist: "TRASH",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/099. TRASH - 重感情的廢物.mp3',
         cover: '/cover.jpg'
       },
       {
-        name: "Post Malone - Circles",
+        name: "Circles",
+        artist: "Post Malone",
         url: 'https://notp.ddns.net/wordpress/wp-content/music/2019HitFM/100. Post Malone - Circles.mp3',
         cover: '/cover.jpg'
       },
