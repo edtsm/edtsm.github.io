@@ -1,6 +1,6 @@
 const a = new APlayer({  
     container: document.getElementById('hit'),
-    fixed: true,
+    fixed: false,
     autoplay: false,
     theme: '#1c03fc',
     loop: 'all',
