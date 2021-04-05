@@ -9,7 +9,7 @@ const a = new APlayer({
     volume: 0.7,
     mutex: true,
     listFolded: false,
-    listMaxHeight: '300px',
+    listMaxHeight: '250px',
     lrcType: 0,
     audio: [
       {

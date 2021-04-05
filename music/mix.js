@@ -9,7 +9,7 @@ const ap_mix = new APlayer({
     volume: 0.7,
     mutex: true,
     listFolded: false,
-    listMaxHeight: '200px',
+    listMaxHeight: '250px',
     lrcType: 3,
     audio: [
       {

@@ -27,7 +27,7 @@ const ap = new APlayer({
 	  {
         name: "Solo",
         artist: 'Clean Bandit ft. Demi Lovato',
-        url: 'https://notp.ddns.net/wordpress/wp-content/music/YTsongs/Solo I Miss You.mp3',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/YTsongs/Solo.mp3',
 		cover: '/cover.jpg'
       },
       {
