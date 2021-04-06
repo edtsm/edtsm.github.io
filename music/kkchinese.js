@@ -1811,6 +1811,1206 @@ const kkc = new APlayer({
         artist: '阿信',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2018/100.當每顆星星 阿信版 (Every Star (Ashin Version)).mp3',
 		cover: '/cover.jpg'
+      },
+      {
+        name: "小幸運",
+        artist: '田馥甄',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/001. 田馥甄 - 小幸運.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "告白氣球",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/002. 周杰倫 - 告白氣球.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "演員",
+        artist: '薛之謙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/003. 薛之謙 - 演員.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "如果雨之後",
+        artist: '周興哲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/004. 周興哲 - 如果雨之後.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "那些你很冒險的夢",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/005. 林俊傑 - 那些你很冒險的夢.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "你，好不好？",
+        artist: '周興哲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/006. 周興哲 - 你，好不好？.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "終於結束的起點",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/007. 五月天 - 終於結束的起點.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "可惜沒如果",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/008. 林俊傑 - 可惜沒如果.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "後來的我們",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/009. 五月天 - 後來的我們.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "追光者",
+        artist: '岑寧兒',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/010. 岑寧兒 - 追光者.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不該",
+        artist: '周杰倫(ft. 張惠妹)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/011. 周杰倫 - 不該 (with 張惠妹).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "修煉愛情",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/012. 林俊傑 - 修煉愛情.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "連名帶姓",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/013. 張惠妹 - 連名帶姓.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "她說",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/014.林俊傑 -她說.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "你還要我怎樣",
+        artist: '薛之謙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/015. 薛之謙 - 你還要我怎樣.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "說散就散",
+        artist: 'JC',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/016. JC - 說散就散.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "相依為命",
+        artist: '陳小春',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/017.陳小春-相依為命.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "突然好想你",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/018.五月天-突然好想你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "說好的幸福呢",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/019.周杰倫-說好的幸福呢.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不為誰而作的歌",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/020. 林俊傑 - 不為誰而作的歌.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "剛剛好",
+        artist: '薛之謙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/021. 薛之謙 - 剛剛好.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "晴天",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/022. 周杰倫 - 晴天.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "以後別做朋友",
+        artist: '周興哲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/023.周興哲-以後別做朋友.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "醜八怪",
+        artist: '薛之謙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/024. 薛之謙 - 醜八怪.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "偉大的渺小",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/025. 偉大的渺小.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "淘汰(國)",
+        artist: '陳奕迅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/026. 陳奕迅 - 淘汰(國).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我多喜歡你 你會知道",
+        artist: '王俊琪',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/027.王俊琪 - 我多喜歡你 你會知道.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "珊瑚海",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/028. 周杰倫 - 珊瑚海.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "擱淺",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/029.周杰倫-擱淺.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "安靜",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/030. 周杰倫 - 安靜.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "明明就",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/031.周杰倫-明明就.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不能說的祕密",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/032.周杰倫-不能說的祕密.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "算什麼男人",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/033. 周杰倫 - 算什麼男人.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "曖昧",
+        artist: '薛之謙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/034. 薛之謙 - 曖昧.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "演員 (Live)",
+        artist: '田馥甄',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/035. 田馥甄 - 演員 (Live).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "風衣",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/036. 孫燕姿 - 風衣.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "有點甜",
+        artist: '汪蘇瀧',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/037.汪蘇瀧-有點甜.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "飄向北方",
+        artist: '黃明志vs王力宏',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/038. 黃明志vs王力宏 - 飄向北方.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "蒲公英的約定",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/039.周杰倫-蒲公英的約定.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "彩虹",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/040.周杰倫-彩虹.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "一千零一個願-單人版",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/041.楊丞琳 - 一千零一個願-單人版.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "讓我留在你身邊",
+        artist: '陳奕迅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/042. 陳奕迅 - 讓我留在你身邊.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "光年之外",
+        artist: 'G.E.M. 鄧紫棋',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/043.G.E.M. 鄧紫棋 - 光年之外.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "一路向北",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/044.周杰倫-一路向北.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "開不了口",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/045.周杰倫-開不了口.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "說謊",
+        artist: '林宥嘉',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/046.林宥嘉-說謊.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "給我一首歌的時間",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/047.周杰倫-給我一首歌的時間.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "龍捲風",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/048.周杰倫 - 龍捲風.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "最長的電影",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/049.周杰倫 - 最長的電影.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "戒菸",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/050. 李榮浩 - 戒菸.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "說了再見",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/051. 周杰倫-說了再見.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我不願讓你一個人",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/052. 五月天-我不願讓你一個人.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "獨家記憶",
+        artist: '陳小春',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/053.  陳小春 - 獨家記憶.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "青春住了誰",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/054.  楊丞琳 - 青春住了誰.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "你不是真正的快樂",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/055. 五月天-你不是真正的快樂.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "偷故事的人",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/056. 張惠妹 - 偷故事的人.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "失落沙洲",
+        artist: '徐佳莹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/057. 徐佳莹-失落沙洲.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "派對動物",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/058. 五月天 - 派對動物.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "給我一個理由忘記",
+        artist: 'A-lin',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/059. Alin-給我一個理由忘記.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "記得",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/060. 林俊傑-記得.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "好好(想把你寫成一首歌)",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/061. 好好(想把你寫成一首歌).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "剛好遇見你",
+        artist: '李玉剛',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/062. 李玉剛 - 剛好遇見你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "江南",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/063. 林俊傑-江南.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛笑的眼睛",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/064. 林俊傑-愛笑的眼睛.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "如果我們不曾相遇",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/065. 五月天 - 如果我們不曾相遇.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "言不由衷",
+        artist: '徐佳瑩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/066. 徐佳瑩 - 言不由衷.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我不配",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/067. 周杰倫-我不配.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "紳士後",
+        artist: '薛之謙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/068. 薛之謙-紳士後.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "背對背擁抱",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/069. 林俊傑-背對背擁抱.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "夜曲",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/070. 周杰倫-夜曲.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "洋蔥",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/071. 五月天-洋蔥.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "當你",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/072. 林俊傑-當你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛你",
+        artist: '陳芳語',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/073. 陳芳語-愛你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "永不失聯的愛",
+        artist: '周興哲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/074. 周興哲 - 永不失聯的愛.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我們不一樣",
+        artist: '大壯',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/075. 大壯 - 我們不一樣.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "取消資格",
+        artist: '陳小春',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/076. 陳小春-取消資格.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "聽見下雨的聲音",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/077. 周杰倫 - 聽見下雨的聲音.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "誰來剪月光",
+        artist: '陳奕迅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/078. 陳奕迅-誰來剪月光.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我好想你",
+        artist: '蘇打綠',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/079. 蘇打綠-我好想你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我懷念的",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/080. 孫燕姿-我懷念的.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "寂寞寂寞就好",
+        artist: '田馥甄',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/081. 田馥甄-寂寞寂寞就好.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不將就",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/082. 李榮浩-不將就.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "學不會",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/083. 林俊傑-學不會.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "遇見",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/084. 孫燕姿-遇見.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "浪費",
+        artist: '林宥嘉',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/085. 林宥嘉-浪費.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我多喜歡你 你會知道",
+        artist: '王俊琪',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/086. 王俊琪 - 我多喜歡你 你會知道.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "李白",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/087. 李榮浩 - 李白.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "那些年",
+        artist: '胡夏',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/088. 胡夏-那些年.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我的歌聲裡",
+        artist: '曲婉婷',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/089. 曲婉婷-我的歌聲裡.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不會有事的",
+        artist: '連詩雅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/090. 連詩雅-不會有事的.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "回到過去",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/091. 周杰倫-回到過去.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "身後",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/092. 張惠妹 - 身後.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "小情歌",
+        artist: '蘇打綠',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/093. 蘇打綠-小情歌.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "年輪說",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/094. 楊丞琳 - 年輪說.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "星晴",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/095. 周杰倫-星晴.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛你沒差",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/096. 周杰倫-愛你沒差.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "楓",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/097. 周杰倫-楓.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "你就不要想起我",
+        artist: '田馥甄',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/098. 田馥甄-你就不要想起我.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "頑固",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/099. 五月天-頑固.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我知道要微笑",
+        artist: '周興哲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2017/100. 周興哲-我知道要微笑.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "像天堂的懸崖 (韓劇主君的太陽片頭曲)",
+        artist: '李佳薇',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/001. 李佳薇 (Jess Lee)_像天堂的懸崖 (韓劇主君的太陽片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我還是愛著你【三立華劇[幸福兌換券]片尾曲】",
+        artist: 'MP魔幻力量',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/002. MP魔幻力量（Magic Power）_我還是愛著你【三立華劇[幸福兌換券]片尾曲】.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "缺口 (電影等一個人咖啡主題曲)",
+        artist: '庾澄慶',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/003. 缺口 (電影等一個人咖啡主題曲) (庾澄慶).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "以後別做朋友 (電視劇 16個夏天 片尾曲)",
+        artist: '周興哲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/004. 16個夏天 電視原聲帶_以後別做朋友 [片尾曲] - Eric 周興哲.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "在你身邊 (電視劇愛的生存之道片頭曲)",
+        artist: '韋禮安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/005. 韋禮安 (William Wei)_在你身邊 (電視劇愛的生存之道片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "身不由己 (戲劇「步步驚情」主題曲)",
+        artist: '丁噹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/006. 丁噹（Della）_身不由己 (戲劇「步步驚情」主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "克卜勒",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/007. 孫燕姿 (Yanzi Sun)_克卜勒.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "等一個人 (電影等一個人咖啡主題曲)",
+        artist: '林芯儀',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/008. 等一個人 (電影等一個人咖啡主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "想你的夜 (未眠版)",
+        artist: '關喆',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/009. 關喆 (Grady Guan)_想你的夜 (未眠版).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "偷偷的【三立華劇[幸福兌換券]插曲】",
+        artist: 'MP魔幻力量',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/010. MP魔幻力量（Magic Power）_偷偷的【三立華劇[幸福兌換券]插曲】.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我沒那麼愛你",
+        artist: '丁噹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/011. 丁噹（Della）_我沒那麼愛你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "歲月這把刀 (「女人30 情定水舞間」片尾曲 )",
+        artist: '林凡',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/012. 林凡_歲月這把刀 (「女人30 情定水舞間」片尾曲 ).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "敢愛敢當",
+        artist: '丁噹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/013. 丁噹（Della）_敢愛敢當.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛存在 (『終極X宿舍』 電視原聲帶 片尾曲)",
+        artist: '王詩安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/014. 『終極X宿舍』電視原聲帶_愛存在-王詩安 (『終極X宿舍』 電視原聲帶 片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "尋人啟事",
+        artist: '徐佳瑩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/015. 徐佳瑩 (Lala Hsu)_尋人啟事.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "面具",
+        artist: '韋禮安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/016. 韋禮安 (William Wei)_面具.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "甩開 (TVBS「A咖的路」插曲)",
+        artist: '丁噹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/017. 丁噹（Della）_甩開 (TVBS「A咖的路」插曲、東風「錯嫁」片頭).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "1/2 (三立都會偶像劇 愛上兩個我 片頭曲)",
+        artist: '炎亞綸',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/018. 炎亞綸 (Aaron Yan)_12 (三立都會偶像劇 愛上兩個我 片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "基因決定我愛你 (偶像劇 喜歡．一個人 插曲)",
+        artist: '陳彥允',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/019. 陳彥允 (Ian Chen)_基因決定我愛你 (偶像劇 喜歡．一個人 插曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "第三人稱",
+        artist: '蔡依林',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/020. 蔡依林 (Jolin Tsai)_第三人稱.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛．這件事情 (韓劇愛在異鄉片頭曲)",
+        artist: '傅又宣',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/021. 傅又宣_愛．這件事情 (FOX衛視中文台韓劇 愛在異鄉片頭曲、八大韓劇 愛上恢單女片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "都對也都錯",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/022. a MEI (張惠妹)_都對也都錯.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "這不是我 (三立都會偶像劇「愛上兩個我」片尾曲)",
+        artist: '炎亞綸',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/023. 炎亞綸 (Aaron Yan)_這不是我 (三立都會偶像劇「愛上兩個我」片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "打呼 (電視劇媽咪的男朋友片頭曲)",
+        artist: '潘瑋柏(feat. 楊丞琳)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/024. 潘瑋柏 (Wilber Pan)_打呼-feat. 楊丞琳 (電視劇媽咪的男朋友片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "下一次擁抱 (偶像劇 再說一次我願意 插曲)",
+        artist: '朱俐靜',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/025. 朱俐靜 (Miu Chu)_下一次擁抱 (偶像劇 再說一次我願意 插曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛其實很殘忍",
+        artist: '梁文音',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/026. 梁文音 (Rachel Liang)_愛其實很殘忍.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "你給我聽好",
+        artist: '陳奕迅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/027. 陳奕迅 (Eason Chan)_你給我聽好.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "將軍令 (電影「黃飛鴻」主題曲)",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/028. 五月天 (Mayday)_將軍令 - 電影「黃飛鴻」主題曲.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "PLAY我呸",
+        artist: '蔡依林',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/029. 蔡依林 (Jolin Tsai)_PLAY我呸.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "天使的指紋",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/030. 孫燕姿 (Yanzi Sun)_天使的指紋.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛到站了 (電視劇 熱海戀歌 主題曲)",
+        artist: '李千娜',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/031. 李千娜 (Chloe Lee)_愛 到站了 (電視劇 熱海戀歌 主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不解釋親吻",
+        artist: '蕭亞軒',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/032. 蕭亞軒 (ELVA Hsiao)_不解釋親吻.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "到不了的地方《電影 『到不了的地方』主題曲》",
+        artist: '蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/033. 蕭敬騰_到不了的地方 《電影 『到不了的地方』主題曲》.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "隨時都在 (偶像劇 喜歡．一個人 片尾曲)",
+        artist: '品冠',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/034. 品冠（Victor）_隨時都在  (偶像劇 喜歡．一個人 片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "三月",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/035. a MEI (張惠妹)_三月.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "喜劇之王",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/036. 李榮浩_喜劇之王.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "咖啡在等一個人 (電影等一個人咖啡主題曲)",
+        artist: '周慧敏',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/037. 咖啡在等一個人 (電影等一個人咖啡主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "若你真的有想過",
+        artist: '白安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/038. 白安 (Ann)_若你真的有想過.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "接下來是什麼",
+        artist: '白安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/039. 白安 (Ann)_接下來是什麼.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "忍不住想念 (韓劇奇皇后片尾曲)",
+        artist: '李佳薇',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/040. 李佳薇 (Jess Lee)_忍不住想念 (韓劇奇皇后片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Kelly 《韓劇 『來自星星的你』片尾曲》",
+        artist: '蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/041. 蕭敬騰_Kelly 《韓劇 『來自星星的你』片尾曲》.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "新宿 (偶像劇妹妹片尾曲)",
+        artist: '安心亞',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/042. 安心亞_新宿 (偶像劇妹妹片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "特別的人",
+        artist: '方大同',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/043. 方大同 (Khalil Fong)_特別的人.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "點水",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/044. 楊丞琳 (Rainie Yang)_點水.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "這樣你還要愛我嗎",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/045. a MEI (張惠妹)_這樣你還要愛我嗎.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "跳進來",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/046. a MEI (張惠妹)_跳進來.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我不知道愛是什麼 (電視劇 16個夏天 插曲)",
+        artist: '艾怡良',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/047. 16個夏天 電視原聲帶_我不知道愛是什麼 [插曲] - 艾怡良 (Eve Ai).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "笑到流淚",
+        artist: '李佳薇',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/048. 李佳薇 (Jess Lee) - 笑到流淚.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "敢傷",
+        artist: '蕭亞軒',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/049. 蕭亞軒 (ELVA Hsiao)_敢傷.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "狼",
+        artist: '韋禮安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/050. 韋禮安 (William Wei)_狼.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "九號球【電影[逆轉勝]主題曲】",
+        artist: '五月天 怪獸',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/051. [逆轉勝] 五月天∕怪獸 原聲原創紀_九號球【電影[逆轉勝]主題曲】(五月天 怪獸).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "陳淑芬與林志豪",
+        artist: '王心凌',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/052. 王心凌_陳淑芬與林志豪.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Just Believe",
+        artist: '頑童 MJ116',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/053. 頑童 MJ116_Just Believe.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "再見陌生人 (電視劇 深圳合租記 片尾曲)",
+        artist: '羅志祥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/054. 羅志祥_再見陌生人 (電視劇 深圳合租記 片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "鈴鈴 (韓劇 繼承者們片頭曲)",
+        artist: '蕭敬騰(feat.范瑋琪)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/055. 蕭敬騰_鈴鈴 - feat.范瑋琪 (韓劇 繼承者們片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "可不可以你也剛好喜歡我",
+        artist: 'FS (Fuying & Sam)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/056. FS (Fuying  Sam)_可不可以你也剛好喜歡我.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不過失去了一點點 (八大綜合台戲劇終極惡女片尾曲)",
+        artist: '曾沛慈',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/057. 曾沛慈_不過失去了一點點 (八大綜合台戲劇終極惡女片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "套不住 (「女人30 情定水舞間」插曲 )",
+        artist: '林凡(feat.符致逸)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/058. 林凡_套不住 - feat.符致逸 (「女人30 情定水舞間」插曲 ).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "浪漫來襲",
+        artist: '蕭亞軒',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/059. 蕭亞軒 (ELVA Hsiao)_浪漫來襲.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "明天的事情  (韓劇 『未來的選擇』中文片頭曲)",
+        artist: '徐佳瑩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/060. 徐佳瑩 (Lala Hsu)_明天的事情  (韓劇 『未來的選擇』中文片頭曲、電影『情慾三重奏』中文宣傳曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Baby Boy (OT: Yipppe)",
+        artist: '王心凌',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/061. 王心凌_Baby boy (OT Yipppe).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "放下, 旅行 (偶像劇再說一次我願意片尾曲)",
+        artist: '李玉璽',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/062. 李玉璽_放下, 旅行 (偶像劇再說一次我願意片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不搭 (韓劇奇皇后片尾曲)",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/063. 李榮浩 - 不搭 - (韓劇奇皇后片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "像我一樣愛你的人",
+        artist: '蘇盈之',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/064. 蘇盈之 (Soo Wincci)_像我一樣愛你的人.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "偏執面",
+        artist: '張惠妹(feat. 蛋堡)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/065. a MEI (張惠妹)_偏執面-feat. 蛋堡.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "可以了",
+        artist: '陳奕迅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/066. 陳奕迅 (Eason Chan)_可以了.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我只是害怕不在妳身旁 (「女人30情定水舞間」插曲)",
+        artist: '陳零九',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/067. 「女人30情定水舞間」電視原聲帶_我只是害怕不在妳身旁／陳零九 (「女人30情定水舞間」插曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "失憶的金魚",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/068. 楊丞琳 (Rainie Yang)_失憶的金魚.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "小人物大公主 (偶像劇「喜歡．一個人」片頭曲)",
+        artist: '陳彥允',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/069. 陳彥允 (Ian Chen)_小人物大公主 (偶像劇「喜歡．一個人」片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "用餘生去愛",
+        artist: '張學友',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/070. 張學友 (Jacky Cheung)_用餘生去愛.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "強求",
+        artist: '李佳薇',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/071. 李佳薇 (Jess Lee)_強求.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "戰神",
+        artist: 'MP魔幻力量',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/072. MP魔幻力量（Magic Power）_戰神.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "小蘋果",
+        artist: '筷子兄弟',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/073. 筷子兄弟_小蘋果.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "尚好的青春",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/074. 孫燕姿 (Yanzi Sun)_尚好的青春.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "無限大",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/075. 孫燕姿 (Yanzi Sun)_無限大.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "有感情歌 (「巷弄裡的那家書店」片尾曲)",
+        artist: '黃鴻升',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/076. 黃鴻升 (Alien Huang)_有感情歌 (「巷弄裡的那家書店」片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "自虐",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/077. a MEI (張惠妹)_自虐.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "I'm Not Yours",
+        artist: '蔡依林(feat.安室奈美惠)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/078. 蔡依林 (Jolin Tsai)_Im Not Yours - feat.安室奈美惠NAMIE AMURO.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "渴",
+        artist: '孫燕姿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/079. 孫燕姿 (Yanzi Sun)_渴.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "說不出的味道",
+        artist: '王心凌',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/080. 王心凌_說不出的味道.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "算什麼男人",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/081. 周杰倫 (Jay Chou)_算什麼男人.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "娛樂天空",
+        artist: '陳奕迅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/082. 陳奕迅 (Eason Chan)_娛樂天空.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不做壞人很久了",
+        artist: '陳威全',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/083. 陳威全_不做壞人很久了.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "下個轉彎是你嗎",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/084. 楊丞琳 (Rainie Yang)_下個轉彎是你嗎.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "濃妝",
+        artist: '朱俐靜',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/085. 朱俐靜 (Miu Chu)_濃妝.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "可惜沒如果",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/086. 林俊傑 (JJ Lin)_可惜沒如果.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我就是愛你 (ASUS ZenFone 2014年度代言歌曲)",
+        artist: '蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/087. 蕭敬騰_我就是愛你( ASUS ZenFone 2014年度代言歌曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "恆溫",
+        artist: '孫盛希',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/088. 孫盛希_恆溫.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "飛高高",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/089. a MEI (張惠妹)_飛高高.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "真的我 (「謊言遊戲」戲劇片尾曲)",
+        artist: '陳嘉樺',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/090. 陳嘉樺 (Ella Chen)_真的我 (「謊言遊戲」戲劇片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "美杜莎",
+        artist: '蔡依林',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/091. 蔡依林 (Jolin Tsai)_美杜莎.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不懂寂寞 (女人30情定水舞間插曲)",
+        artist: '羅美玲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/092. 羅美玲 (Irene Luo)_不懂寂寞 (三立、東森華劇-女人30情定水舞間插曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我在你身旁 (女人30情定水舞間片頭曲)",
+        artist: '羅美玲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/093. 羅美玲 (Irene Luo)_我在你身旁 (女人30情定水舞間片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "結巴 (戲劇步步驚情插曲)",
+        artist: '嚴爵+郭雪芙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/094. 步步驚情電視原聲帶_結巴 - 嚴爵+郭雪芙 (戲劇步步驚情插曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "每一次戀愛 (三立華劇 媽咪的男朋友 片尾曲)",
+        artist: '梁文音',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/095. 梁文音_每一次戀愛 (三立華劇 媽咪的男朋友 片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "為愛而活",
+        artist: '張韶涵',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/096. 張韶涵_為愛而活.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "狗",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/097. a MEI (張惠妹)_狗.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "匆匆那年",
+        artist: '王菲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/098. 王菲 (Faye Wong)_匆匆那年.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "祝你幸福",
+        artist: '李聖傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/099. 李聖傑 (Sam Lee)_祝你幸福.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛就是 (三立華劇 幸福兌換券 片頭曲)",
+        artist: '胡宇威',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2014/100. 胡宇威 (George Hu)_愛就是 (三立華劇 幸福兌換券 片頭曲).mp3',
+		cover: '/cover.jpg'
       }
 
     ]
