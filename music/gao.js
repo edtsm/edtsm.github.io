@@ -26,7 +26,7 @@ const gao = new APlayer({
       },
       {
         name: "新世界",
-        artist: '告五人',
+        artist: '告五人 (feat.阿爆)',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/告五人/告五人 - 新世界.mp3',
 		cover: '/cover.jpg'
       },
