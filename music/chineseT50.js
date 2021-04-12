@@ -13,6 +13,78 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "各自安好",
+        artist: '劉若英',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/劉若英 - 各自安好 (Each Well).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: 'Kow Tow (Explicit)',
+        artist: '陳芳語',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/陳芳語-Kow Tow (Explicit).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "超能力",
+        artist: '鄧紫棋',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/G.E.M. 鄧紫棋 - 超能力.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: '起風了 (電視劇加油你是最棒的主題曲)',
+        artist: '吳青峰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/吳青峰 - 起風了 - 電視劇加油你是最棒的主題曲.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "我常常想起你",
+        artist: '棉花糖',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/棉花糖 - 我常常想起你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "兜轉 (《HIStory4-近距離愛上你》片頭曲)",
+        artist: '陳勢安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/陳勢安 - 兜轉 (Round & Round) - 《HIStory4-近距離愛上你》LINE TV片頭曲.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '緩緩',
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/張惠妹 (aMEI) - 緩緩.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛情你比我想的閣較偉大 (當男人戀愛時電影主題曲)",
+        artist: '茄子蛋',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/茄子蛋 - 愛情你比我想的閣較偉大 - 當男人戀愛時電影主題曲.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '我不需要每一個人都愛我 - A Rock Can Be A Star',
+        artist: '八三夭',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/八三夭 (831) - 我不需要每一個人都愛我 - A Rock Can Be A Star.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "說好不哭",
+        artist: '周杰倫(ft. 五月天阿信)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/周杰倫 - 說好不哭(With 五月天阿信).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: '千年以後 (三立 台視神幻旗艦大戲天巡者片尾曲)',
+        artist: '陳零九',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/陳零九 - 千年以後 (三立 台視神幻旗艦大戲天巡者片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "想啊,想著你 (她們創業的那些鳥事片尾曲)",
+        artist: '吳汶芳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/吳汶芳 - 想啊,想著你 (影視旗艦大戲她們創業的那些鳥事片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
         name: "飛鳥和蟬",
         artist: '任然',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/飛鳥和蟬.mp3',
