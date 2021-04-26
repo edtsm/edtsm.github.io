@@ -13,6 +13,78 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "最美的風景",
+        artist: 'Marz23 (feat. 莫宰羊)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/03. Marz23 - 最美的風景 (feat. 莫宰羊).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: 'Fall In Love',
+        artist: '九九 (Sophie Chen), 陳忻玥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/26. 九九 (Sophie Chen), 陳忻玥 - Fall In Love.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "還是回到這 (聽不見的距離 主題曲)",
+        artist: '謝祥寅Eric, 陳芳語',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/34. 謝祥寅Eric, 陳芳語 - 還是回到這 (聽不見的距離 主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: '日常',
+        artist: '茄子蛋',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/38. 茄子蛋 - 日常.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "FatBoyGang",
+        artist: '大淵 MUTA',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/07. 大淵MUTA - FatBoyGang.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '寫一條歌，寫你我爾爾',
+        artist: '蕭煌奇 (ft. 茄子蛋)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/18. 蕭煌奇 - 寫一條歌,寫你我爾爾 (ft. 茄子蛋).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "我很好騙",
+        artist: '動力火車',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/20. 動力火車 - 我很好騙.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: 'TrashTalk',
+        artist: 'Dizzy Dizzo 蔡詩芸 (ft. 瘦子ESO)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/34. Dizzy Dizzo 蔡詩芸 - TrashTalk (ft. 瘦子ESO).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "絕美",
+        artist: '艾薇',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/37. 艾薇 - 絕美.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "星辰大海",
+        artist: '黃霄雲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/44. 黃霄雲 - 星辰大海.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '漸冷',
+        artist: '雪二',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/46. 雪二 - 漸冷.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Do Do Do (廢財闖天關片頭曲)",
+        artist: 'Karencici',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/49. Karencici - Do Do Do (廢財闖天關片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
         name: "各自安好",
         artist: '劉若英',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/劉若英 - 各自安好 (Each Well).mp3',
