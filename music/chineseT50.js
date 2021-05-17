@@ -13,6 +13,72 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "因為是你 (原創影集火神的眼淚片頭曲)",
+        artist: '韋禮安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/009. 韋禮安 - 因為是你 (原創影集火神的眼淚片頭曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: 'Tides',
+        artist: 'DIZZY DIZZO(feat. 高爾宣 OSN)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/011. DIZZY DIZZO - Tides  (feat. 高爾宣 OSN).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "All For Me",
+        artist: '張語噥, 陳芳語',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/013. 張語噥, 陳芳語 - All For Me.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '第四象限',
+        artist: '九澤CP',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/032. 九澤CP - 第四象限.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Sweet Baby",
+        artist: '頑童 MJ116',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/003. 頑童 MJ116 - Sweet Baby.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '規則就是用來打破的',
+        artist: '八三夭',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/006. 八三夭 (831) - 規則就是用來打破的.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "遺失的靈魂 (HIStory4-近距離愛上你插曲)",
+        artist: '陳勢安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/033. 陳勢安 - 遺失的靈魂 (HIStory4-近距離愛上你插曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '山山 (Original Version)',
+        artist: '大淵MUTA(ft. Tipsy)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/047. 大淵MUTA - 山山 (Original Version) ft. Tipsy.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: "Paris",
+        artist: '吳卓源',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. 吳卓源 - Paris.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "FEEL",
+        artist: '婁峻碩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/037. 婁峻碩 - FEEL.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: 'Trash Talk',
+        artist: 'DIZZY DIZZO(feat. E.SO)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. DIZZY DIZZO - Trash Talk (feat. E.SO).mp3',
+		cover: '/cover.jpg'
+      },
+      {
         name: "最美的風景",
         artist: 'Marz23 (feat. 莫宰羊)',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/03. Marz23 - 最美的風景 (feat. 莫宰羊).mp3',

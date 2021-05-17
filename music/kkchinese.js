@@ -5993,6 +5993,366 @@ const kkc = new APlayer({
         artist: '曹格',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2009/100. 曹格_寂寞先生.mp3',
 		cover: '/cover.jpg'
+      },
+      {
+        name: "說好的幸福呢",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/01. 周杰倫 (Jay Chou)_說好的幸福呢.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "下一個天亮",
+        artist: '郭靜',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/02. 郭靜 (Claire)_下一個天亮.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "下雨天",
+        artist: '南拳媽媽',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/03. 南拳媽媽_下雨天.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "終於說出口",
+        artist: '小宇',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/04. 小宇_終於說出口.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "擦肩而過",
+        artist: '李聖傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/05. 李聖傑_擦肩而過.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "為你寫詩",
+        artist: '吳克羣',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/06. 吳克羣_為你寫詩.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "稻香",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/07. 周杰倫 (Jay Chou)_稻香.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "原諒我",
+        artist: '蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/08. 蕭敬騰_原諒我.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "會呼吸的痛",
+        artist: '梁靜茹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/09. 梁靜茹_會呼吸的痛.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我不配",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/10. 周杰倫 (Jay Chou)_我不配.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "親愛的那不是愛情",
+        artist: '張韶涵',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/11. 張韶涵_親愛的那不是愛情.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "猜不透",
+        artist: '丁噹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/12. 丁噹（Della）_猜不透.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "王子的新衣",
+        artist: '蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/13. 蕭敬騰_王子的新衣.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "累格",
+        artist: '戴愛玲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/14. 戴愛玲_累格.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "獨家記憶",
+        artist: '陳小春',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/15. 陳小春 (Jordan)_獨家記憶.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "誠實地想你",
+        artist: '郭采潔',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/16. 郭采潔_誠實地想你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "給我一首歌的時間",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/17. 周杰倫 (Jay Chou)_給我一首歌的時間.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "無樂不作",
+        artist: '范逸臣',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/18. 范逸臣_無樂不作.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "國境之南 (海角七號電影原聲帶)",
+        artist: '范逸臣',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/19. 海角七號電影原聲帶_國境之南 - 范逸臣.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "無辜",
+        artist: '曹格',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/20. 曹格_無辜.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "背叛",
+        artist: '曹格',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/21. 曹格_背叛.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "多餘",
+        artist: '楊宗緯',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/22. 星光幫_多餘(楊宗緯).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不能說的祕密",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/23. 周杰倫 (Jay Chou)_不能說的祕密.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我不想忘記你",
+        artist: '郭靜',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/24. 郭靜 (Claire)_我不想忘記你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛轉角",
+        artist: '羅志祥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/25. 羅志祥_愛轉角.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "一眼瞬間",
+        artist: '張惠妹+蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/26. 張惠妹+蕭敬騰_一眼瞬間.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "專屬天使",
+        artist: 'Tank',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/27. Tank_專屬天使.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "如果你也聽說",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/28. 張惠妹(A-Mei)_如果你也聽說.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "非你莫屬",
+        artist: 'Tank',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/29. Tank_非你莫屬.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "愛情轉移",
+        artist: '陳奕迅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/30. 陳奕迅 (Eason Chan)_愛情轉移.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "千里之外",
+        artist: '周杰倫(費玉清合唱)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/31. 周杰倫 (Jay Chou)_千里之外(費玉清合唱).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "馬德里不思議",
+        artist: '蔡依林',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/32. 蔡依林 (Jolin Tsai)_馬德里不思議.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "假裝",
+        artist: '蔡依林',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/33. 蔡依林 (Jolin Tsai)_假裝.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Kiss Goodbye",
+        artist: '王力宏',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/34. 王力宏 (Leehom Wang)_Kiss Goodbye.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "隱形的翅膀",
+        artist: '張韶涵',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/35. 張韶涵_隱形的翅膀.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "退後",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/36. 周杰倫 (Jay Chou)_退後.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "天天夜夜",
+        artist: '飛兒樂團 (F.I.R.)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/37. 飛兒樂團 (F.I.R.)_天天夜夜.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "靜靜的",
+        artist: '庾澄慶',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/38. 庾澄慶(哈林)_靜靜的.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我要快樂",
+        artist: '張惠妹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/39. 張惠妹(A-Mei)_我要快樂.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "梁山伯與茱麗葉",
+        artist: '卓文萱+曹格',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/40. 卓文萱_梁山伯與茱麗葉 (卓文萱+曹格).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "舞孃",
+        artist: '蔡依林',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/41. 蔡依林 (Jolin Tsai)_舞孃.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "給我你的愛",
+        artist: 'Tank',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/42. Tank_給我你的愛.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "放生",
+        artist: '范逸臣',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/43. 范逸臣_放生.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "好朋友",
+        artist: '羅志祥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/44. 羅志祥_好朋友 (OT：只要有你).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我會好好的",
+        artist: '王心凌',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/45. 王心凌_我會好好的.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "白色風車",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/46. 周杰倫 (Jay Chou)_白色風車.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "慶祝",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/47. 楊丞琳 (Rainie Yang)_慶祝.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "觸電",
+        artist: 'S.H.E',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/48. S.H.E_觸電.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "男傭",
+        artist: '吳克羣',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/49. 吳克羣_男傭.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "只對你有感覺",
+        artist: '飛輪海',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/50. 飛輪海_只對你有感覺 (飛輪海+Hebe).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "夜曲",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/51. 周杰倫 (Jay Chou)_夜曲.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "曖昧",
+        artist: '楊丞琳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/52. 楊丞琳 (Rainie Yang)_曖昧.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "一首簡單的歌",
+        artist: '王力宏',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/53. 王力宏 (Leehom Wang)_一首簡單的歌.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "睜一隻眼閉一隻眼",
+        artist: '蔡依林',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/54. 蔡依林 (Jolin Tsai)_睜一隻眼閉一隻眼.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "千年之戀",
+        artist: '飛兒樂團 (F.I.R.)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/55. 飛兒樂團 (F.I.R.)_千年之戀.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "絲路",
+        artist: '梁靜茹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/56. 梁靜茹_絲路.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "簡簡單單",
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/57. 林俊傑 (JJ Lin)_簡簡單單.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "零",
+        artist: '柯有倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/58. 柯有倫_零.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "不屑紀念",
+        artist: '吳克羣',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/59. 吳克羣_不屑紀念.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "如果還有明天",
+        artist: '信(合唱薛岳 & 柯有綸)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/KKBOX_Chinese/2008/60. 信_如果還有明天(合唱薛岳 & 柯有綸).mp3',
+		cover: '/cover.jpg'
       }
       
     ]
