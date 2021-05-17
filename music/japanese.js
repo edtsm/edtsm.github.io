@@ -167,7 +167,7 @@ const japanese = new APlayer({
 		cover: '/cover.jpg'
       },
       {
-        name: "グランドエスケープ(Movie edit)",
+        name: "グランドエスケープ (Movie edit)",
         artist: '三浦透子',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/三浦透子-グランドエスケープ(Movie edit).mp3',
         lrc: '/music_lrcover/japanese_lrc/三浦透子-グランドエスケープ(Movie edit).lrc',
