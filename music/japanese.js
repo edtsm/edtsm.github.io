@@ -27,7 +27,7 @@ const japanese = new APlayer({
 		cover: '/cover.jpg'
       },
       {
-        name: "虹",
+        name: "虹 (STAND BY ME 2 主題曲)",
         artist: '菅田将暉(すだ まさき)',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/菅田将暉 (すだ まさき)-虹.mp3',
         lrc: '/music_lrcover/japanese_lrc/菅田将暉 (すだ まさき)-虹.lrc',
