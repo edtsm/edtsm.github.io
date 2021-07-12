@@ -204,8 +204,8 @@ const namewee = new APlayer({
       {
         name: "怎麼辦",
         artist: '黃明志',
-        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/黃明志/黃明志-怎麼辦.mp3',
-        lrc: '/music_lrcover/namewee_lrc/黃明志-怎麼辦.lrc',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/黃明志/黃明志 - 中國痛(Ft. 黃秋生).mp3',
+        lrc: '',
 		cover: '/cover.jpg'
       },
       {

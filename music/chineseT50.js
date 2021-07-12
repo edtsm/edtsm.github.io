@@ -13,6 +13,228 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "better off without you",
+        artist: '吳卓源, 瘦子E.SO',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/002. 吳卓源, 瘦子E.SO - better off without you.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '我還是一個人',
+        artist: '黃偉晉',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/008. 黃偉晉 - 我還是一個人.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "再見",
+        artist: '林凡',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/010. 林凡 - 再見.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Floaty Shit",
+        artist: '吳卓源',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/010. 吳卓源 - Floaty Shit.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '我們都傷',
+        artist: '陳勢安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/017. 陳勢安 - 我們都傷.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "過得爽爽",
+        artist: '大淵MUTA',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/035. 大淵MUTA - 過得爽爽.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "終點起點",
+        artist: '魚丁糸',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/006. 魚丁糸 - 終點起點.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '嘉賓',
+        artist: '張遠',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/007. 張遠 - 嘉賓.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "FREEWAY",
+        artist: 'CHING G SQUAD',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/008. CHING G SQUAD - FREEWAY.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "我的菜",
+        artist: '魏如萱 , 影子計劃',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/030  魏如萱 , 影子計劃 - 我的菜.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "英雄 (Heroes) (動畫電影諸葛四郎－英雄的英雄主題曲 Acoustic Ver.)",
+        artist: '盧廣仲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/042. 盧廣仲 - 英雄 (Heroes) (動畫電影諸葛四郎－英雄的英雄主題曲 Acoustic Ver.).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '未發送',
+        artist: '阿冗',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. 阿冗 - 未發送.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Changing",
+        artist: '李杰明 W.M.L, 陳忻玥, 高爾宣 OSN, 九九 , 王艷薇',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/006. 李杰明 W.M.L, 陳忻玥, 高爾宣 OSN, 九九 , 王艷薇 - Changing.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '禁愛條款',
+        artist: '鄭容和, 蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/009. 鄭容和, 蕭敬騰 - 禁愛條款.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "變成你",
+        artist: 'TRASH',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/012. TRASH - 變成你.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '熱愛105°C的你',
+        artist: '阿肆',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/032. 阿肆 - 熱愛105°C的你.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "憑什麼 (大嘻哈時代主題曲)",
+        artist: '大支 & Leo王 & 熊仔',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/040. 大支 & Leo王 & 熊仔 - 憑什麼 (大嘻哈時代主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "熱爱105°C的你 - 治愈女生版",
+        artist: '予笙',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/002. 予笙 - 熱爱105°C的你 - 治愈女生版.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '裹著心的光',
+        artist: '林俊傑',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/007. 林俊傑 - 裹著心的光.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "D逃",
+        artist: '吳汶芳',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/020. 吳汶芳 - D逃.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '要不要',
+        artist: '于文文',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/043. 于文文 - 要不要.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "心愛的再會啦",
+        artist: '琳誼 Ring',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. 琳誼 Ring - 心愛的再會啦.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "離開你以後 (你的婚禮插曲)",
+        artist: 'Eric 周興哲',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/006. Eric 周興哲 - 離開你以後 (你的婚禮插曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '來不及說再見 (奇蹟前導片主題曲)',
+        artist: 'Ray黃霆睿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/024. Ray黃霆睿 - 來不及說再見 (奇蹟前導片主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "名人錄 (電影殺手保鑣 2 中文主題曲)",
+        artist: '林凡',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/025. 林凡 - 名人錄 (電影殺手保鑣 2 中文主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '走建國路回家但後座少ㄌ泥',
+        artist: '多多 x 以捷',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/028. 多多 x 以捷 - 走建國路回家但後座少ㄌ泥.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "暖心",
+        artist: '張語噥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/040. 張語噥 - 暖心.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "繞 (原創影集火神的眼淚片尾曲)",
+        artist: '江美琪',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/012. 江美琪 - 繞 (原創影集火神的眼淚片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '我們都傷',
+        artist: '陳勢安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/025. 陳勢安 - 我們都傷.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "你是不是有點動心",
+        artist: '陳芳語',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/034. 陳芳語 - 你是不是有點動心.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: 'Cold',
+        artist: '派偉俊(ft. 莫宰羊)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/044. 派偉俊 - Cold(feat. 莫宰羊).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "看見愛情 (2021美國棉主題曲)",
+        artist: '畢書盡 (Bii)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/046. 畢書盡 (Bii) - 看見愛情 (2021美國棉主題曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '10,000 HOURS (國際中文版)',
+        artist: '鄭容和',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. 鄭容和 - 10,000 HOURS (國際中文版).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "Painted a Picture",
+        artist: '陳忻玥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/006. 陳忻玥 - Painted a Picture.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '家 Home',
+        artist: 'TRASH',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/019. TRASH - 家 Home.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "寫給明天的情書 (愛的奧特萊斯感動宣傳曲)",
+        artist: 'TANK 呂建忠',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/030. TANK 呂建忠 - 寫給明天的情書 (愛的奧特萊斯感動宣傳曲).mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: 'Keep Up',
+        artist: 'Jocelyn 9.4.0, 呂士軒',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/047. Jocelyn 9.4.0, 呂士軒 - Keep Up (feat. 呂士軒).mp3',
+		cover: '/cover.jpg'
+      },
+      {
         name: "因為是你 (原創影集火神的眼淚片頭曲)",
         artist: '韋禮安',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/009. 韋禮安 - 因為是你 (原創影集火神的眼淚片頭曲).mp3',
