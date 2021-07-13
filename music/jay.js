@@ -204,8 +204,8 @@ const jay = new APlayer({
       {
         name: "說好不哭",
         artist: '周杰倫 (ft. 阿信)',
-        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫抒情/周杰倫-說好不哭.mp3',
-        lrc: '/music_lrcover/jay_lrc/周杰倫-說好不哭.lrc',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫抒情/周杰倫-說好不哭 (with 五月天阿信).mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-說好不哭 (with 五月天阿信).lrc',
 		cover: '/cover.jpg'
       },
       {
