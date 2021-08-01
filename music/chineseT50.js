@@ -13,6 +13,66 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "愛在蔓延時",
+        artist: '飛兒樂團 (F.I.R.)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/019. 飛兒樂團 (F.I.R.) - 愛在蔓延時.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '我存在你的存在 (迷你劇集我的老闆是隻貓片尾曲)',
+        artist: '邵羽, 陳忻玥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/028. 邵羽, 陳忻玥 - 我存在你的存在 (迷你劇集我的老闆是隻貓片尾曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "一直追 (電視劇神之鄉首部曲)",
+        artist: '畢書盡 & 陳彥允 & 李玉璽',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/033. 畢書盡 & 陳彥允 & 李玉璽 - 一直追 (電視劇神之鄉首部曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "青空未來 (Future)",
+        artist: '阿信',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/035. 阿信 - 青空未來 (Future).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "縱橫四海",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/018. 李榮浩 - 縱橫四海.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '毛玻璃 (電視劇神之鄉二部曲)',
+        artist: '王識賢 & 李玉璽',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/031. 王識賢 & 李玉璽 - 毛玻璃 (電視劇神之鄉二部曲).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "告白氣球",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. 周杰倫 - 告白氣球.mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "出走",
+        artist: '蔡健雅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/035. 蔡健雅 - 出走.mp3',
+		cover: '/cover.jpg'
+      },
+	  {
+        name: '當我們的手勇敢緊握 (戀愛無名氏2主題曲)',
+        artist: '理想混蛋 雞丁',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. 理想混蛋 雞丁 - 當我們的手勇敢緊握 -戀愛無名氏2主題曲 (同志音樂愛情故事系列).mp3',
+		cover: '/cover.jpg'
+      },
+      {
+        name: "你的酒館對我打了烊",
+        artist: '陳雪凝',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/050. 陳雪凝 - 你的酒館對我打了烊.mp3',
+		cover: '/cover.jpg'
+      },
+      {
         name: "better off without you",
         artist: '吳卓源, 瘦子E.SO',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/002. 吳卓源, 瘦子E.SO - better off without you.mp3',
