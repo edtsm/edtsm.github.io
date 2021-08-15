@@ -591,7 +591,22 @@
 <script>
     // Open in New Window
     
-        $("a[target=_blank]").removeAttr("target");
+        var oOpenInNew = {
+            
+            
+             post: ".article-entry a[href], .copyright a[href]", 
+            
+            
+            
+            
+            
+            
+             friends: "#js-friends a", 
+             socail: ".social a" 
+        }
+        for (var x in oOpenInNew) {
+            $(oOpenInNew[x]).attr("target", "_blank");
+        }
     
 </script>
 
