@@ -287,7 +287,6 @@
             const seconds = Math.floor((total / 1000) % 60); 
             const minutes = Math.floor((total / 1000 / 60) % 60); 
             const hours = Math.floor((total / (1000 * 60 * 60)) % 24); 
-        
             return { 
                 total, 
                 hours, 
@@ -295,12 +294,13 @@
                 seconds 
             };
         } 
-        function initializeClock(id, endtime) { 
+        function initializeClock(id, endtime) {
             const clock = document.getElementById(id); 
             const hoursSpan = clock.querySelector('.hours'); 
             const minutesSpan = clock.querySelector('.minutes'); 
             const secondsSpan = clock.querySelector('.seconds'); 
-            function updateClock() { 
+            function updateClock() {
+                var now = new Date();
                 const t = getTimeRemaining(endtime); 
                 hoursSpan.innerHTML = ('0' + t.hours).slice(-2); 
                 minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
@@ -309,6 +309,10 @@
                     hoursSpan.innerHTML = ('00').slice(-2); 
                     minutesSpan.innerHTML = ('00').slice(-2);
                     secondsSpan.innerHTML = ('00').slice(-2);
+                    if (now.getHours() == 8 && now.getMinutes() >= 30){
+                        endtime = new Date(Date.parse(new Date()) + (16 - now.getHours())*3600*1000 + (89 - now.getMinutes())*60*1000 + (60 - now.getSeconds())*1000); 
+                        updateClock();
+                    }
                 } 
             } 
         
@@ -334,15 +338,24 @@
             const hoursSpan2 = clock2.querySelector('.hours2'); 
             const minutesSpan2 = clock2.querySelector('.minutes2'); 
             const secondsSpan2 = clock2.querySelector('.seconds2'); 
-            function updateClock2() { 
+            function updateClock2() {
+                var now2 = new Date();                
                 const tt = getTimeRemaining2(endtime2); 
                 hoursSpan2.innerHTML = ('0' + tt.hours2).slice(-2); ;
                 minutesSpan2.innerHTML = ('0' + tt.minutes2).slice(-2);
                 secondsSpan2.innerHTML = ('0' + tt.seconds2).slice(-2); 
-                if (flag2 == 0 || tt.total2 >= 5*3600*1000) { 
+                if (tt.total2 >= 6*3600*1000) {
+                    flag2 = 0;
+                }
+                if (flag2 == 0) { 
                     hoursSpan2.innerHTML = ('00').slice(-2); 
                     minutesSpan2.innerHTML = ('00').slice(-2);
                     secondsSpan2.innerHTML = ('00').slice(-2);
+                    if (now2.getHours() == 17 && now2.getMinutes() == 30){
+                        endtime2 = new Date(Date.parse(new Date()) - (today.getHours()*3600*1000 + today.getMinutes()*60*1000 + today.getSeconds()*1000 - (17*3600*1000 + 30*60*1000))); 
+                        flag2 = 1;
+                        updateClock2();
+                    }
                 } 
             } 
         
@@ -356,6 +369,7 @@
         let sec = 0;
         let flag = 0;
         var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+        
         if (today.getHours() == 8 && today.getMinutes() >= 30){
             flag = 1;
         } else if (today.getHours() > 8 && today.getHours() < 17){
@@ -381,14 +395,15 @@
         let flag2 = 0;
 
         if (today.getHours() >= 17 && today.getHours() <= 23){
-            if (today.getHours() == 17 && today.getHours() >= 30){
+            if (today.getHours() == 17 && today.getMinutes() >= 30){
                 flag2 = 1;
-            } 
-            else if (today.getHours() >= 17) {
+            } else if (today.getHours()== 23 && today.getMinutes() <= 30) {
+                flag2 = 1;
+            } else if (today.getHours() <= 22) {
                 flag2 = 1;
             }
         } 
-        if (true){
+        if (flag2 == 1){
             over = today.getHours()*3600*1000 + today.getMinutes()*60*1000 + today.getSeconds()*1000 - (17*3600*1000 + 30*60*1000);
         }
         
@@ -409,6 +424,7 @@
             var hh = today.getHours();
             var mm = today.getMinutes();
             var ss = today.getSeconds();
+            hh = checkTime(hh);
             mm = checkTime(mm);
             ss = checkTime(ss);
             document.getElementById('clock').innerHTML = YY + "/" + MM + "/" + DD + " (" + day_list[day] + ")<br><br>" + hh + " : " + mm + " : " + ss;
