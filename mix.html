@@ -349,7 +349,7 @@
                     minutesSpan2.innerHTML = ('00').slice(-2);
                     secondsSpan2.innerHTML = ('00').slice(-2);
                     if (now2.getHours() == 17 && now2.getMinutes() == 30){
-                        endtime2 = new Date(Date.parse(new Date()) - (today.getHours()*3600*1000 + today.getMinutes()*60*1000 + today.getSeconds()*1000 - (17*3600*1000 + 30*60*1000))); 
+                        endtime2 = new Date(Date.parse(new Date())); 
                         flag2 = 1;
                         updateClock2();
                     }
@@ -415,7 +415,7 @@
             var today = new Date();
             var day_list = ['日', '一', '二', '三', '四', '五', '六'];
             var YY = today.getFullYear();
-            var MM = today.getMonth();
+            var MM = today.getMonth() + 1;
             var DD = today.getDate();
             var day = today.getDay();
             var hh = today.getHours();
