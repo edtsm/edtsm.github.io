@@ -252,7 +252,7 @@ a {
 #container .left-col .intrude-less {
   width: 76%;
   text-align: center;
-  margin: 112px auto 0;
+  margin: 30px auto 0;
 }
 #container .left-col li:hover {
   background: none;
@@ -572,8 +572,8 @@ a {
   display: block;
   border: 5px solid #fff;
   border-radius: 50%;
-  width: 128px;
-  height: 128px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
@@ -687,7 +687,7 @@ a {
   position: relative;
   width: 100%;
   overflow: hidden;
-  min-height: 260px;
+  min-height: 100px;
   font-size: 0.875rem;
 }
 #header .switch-area .switch-wrap {
