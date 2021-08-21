@@ -136,7 +136,7 @@
                         
                             <li><a href="/">Home</a></li>
                         
-                            <li><a href="/archives">Archives</a></li>
+                            <li><a href="/podcasts">Podcasts</a></li>
                         
                             <li><a href="/mix">Mix</a></li>
                         
@@ -342,14 +342,14 @@
                 hoursSpan2.innerHTML = ('0' + tt.hours2).slice(-2); ;
                 minutesSpan2.innerHTML = ('0' + tt.minutes2).slice(-2);
                 secondsSpan2.innerHTML = ('0' + tt.seconds2).slice(-2); 
-                if (tt.total2 >= 6*3600*1000) {
+                if (tt.total2 >= 5*3600*1000) {
                     flag2 = 0;
                 }
                 if (flag2 == 0) { 
                     hoursSpan2.innerHTML = ('00').slice(-2); 
                     minutesSpan2.innerHTML = ('00').slice(-2);
                     secondsSpan2.innerHTML = ('00').slice(-2);
-                    if (now2.getHours() == 17 && now2.getMinutes() == 30){
+                    if (now2.getHours() == 18 && now2.getMinutes() == 0){
                         endtime2 = new Date(Date.parse(new Date())); 
                         flag2 = 1;
                         updateClock2();
@@ -392,20 +392,11 @@
         let over = 0;
         let flag2 = 0;
 
-        if (today.getHours() >= 17 && today.getHours() <= 23){
-            if (today.getHours() == 17 && today.getMinutes() >= 30){
-                flag2 = 1;
-            } else if (today.getHours()== 23 && today.getMinutes() <= 30) {
-                flag2 = 1;
-            } else if (today.getHours() <= 22) {
-                flag2 = 1;
-            }
+        if (today.getHours() >= 18 && today.getHours() < 23){
+            flag2 = 1;
+            over = today.getHours()*3600*1000 + today.getMinutes()*60*1000 + today.getSeconds()*1000 - (18*3600*1000);
         } 
-        if (flag2 == 1){
-            over = today.getHours()*3600*1000 + today.getMinutes()*60*1000 + today.getSeconds()*1000 - (17*3600*1000 + 30*60*1000);
-        }
-        
-    
+
         const deadline = new Date(Date.parse(new Date()) + hr + min + sec);
         const overline = new Date(Date.parse(new Date()) - over);
         initializeClock('clockdiv', deadline);
@@ -462,7 +453,7 @@
                 
                     <li><a href="/">Home</a></li>
                 
-                    <li><a href="/archives">Archives</a></li>
+                    <li><a href="/podcasts">Podcasts</a></li>
                 
                     <li><a href="/mix">Mix</a></li>
                 
