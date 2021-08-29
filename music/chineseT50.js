@@ -13,6 +13,78 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "蚵仔麵線",
+        artist: '琳誼 Ring',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/002. 琳誼 Ring - 蚵仔麵線.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '無人知曉',
+        artist: '田馥甄',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/003. 田馥甄 - 無人知曉.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "錄音帶",
+        artist: '琳誼 Ring',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/011. 琳誼 Ring - 錄音帶.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "刻在我心底的名字 (Your Name Engraved Herein)",
+        artist: '五月天',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/012. 五月天 - 刻在我心底的名字 (Your Name Engraved Herein).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "微笑分手",
+        artist: '邱鋒澤',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/021. 邱鋒澤 - 微笑分手.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '憂愁',
+        artist: '琳誼 Ring(ft. 法蘭)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/038. 琳誼 Ring - 憂愁(feat. 法蘭).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "沒什麼大不了",
+        artist: '陳芳語, 茄子蛋',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/009. 陳芳語, 茄子蛋 - 沒什麼大不了.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: 'Fall',
+        artist: '高爾宣 OSN',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/012. 高爾宣 OSN - Fall.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "讓浪漫作主",
+        artist: '蔡健雅',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/017. 蔡健雅 - 讓浪漫作主.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "光陰獨白 (電視劇你是我的榮耀片尾曲)",
+        artist: '徐佳瑩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/023. 徐佳瑩 - 光陰獨白 (電視劇你是我的榮耀片尾曲).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "煙火星辰 (電視劇你是我的榮耀片頭曲)",
+        artist: '摩登兄弟劉宇寧',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/033. 摩登兄弟劉宇寧 - 煙火星辰 (電視劇你是我的榮耀片頭曲).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '簽收我的心 (電影再說一次我願意插曲)',
+        artist: '鼓鼓 呂思緯',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/038. 鼓鼓 呂思緯 - 簽收我的心 (電影再說一次我願意插曲).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
         name: "我",
         artist: '蕭敬騰(ft. 馬佳)',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/011. 蕭敬騰 - 我 (feat. 馬佳).mp3',

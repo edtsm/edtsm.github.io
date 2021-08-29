@@ -27,6 +27,27 @@ const japanese = new APlayer({
 		cover: '/images/album/music.jpg'
       },
       {
+        name: "くらべられっ子",
+        artist: 'ツユ',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/ツユ-くらべられっ子.mp3',
+        lrc: '/music_lrcover/japanese_lrc/ツユ-くらべられっ子.lrc',
+		cover: '/images/album/music.jpg'
+      },
+      {
+        name: "やっぱり雨は降るんだね",
+        artist: 'ツユ',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/ツユ-やっぱり雨は降るんだね.mp3',
+        lrc: '/music_lrcover/japanese_lrc/ツユ-やっぱり雨は降るんだね.lrc',
+		cover: '/images/album/music.jpg'
+      },
+      {
+        name: "雨を浴びる",
+        artist: 'ツユ',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/ツユ-雨を浴びる.mp3',
+        lrc: '/music_lrcover/japanese_lrc/ツユ-雨を浴びる.lrc',
+		cover: '/images/album/music.jpg'
+      },
+      {
         name: "虹 (STAND BY ME 2 主題曲)",
         artist: '菅田将暉(すだ まさき)',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/菅田将暉 (すだ まさき)-虹.mp3',
@@ -52,56 +73,77 @@ const japanese = new APlayer({
         artist: 'Aimer',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimer-茜さす.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimer-茜さす.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/Aimer.jpg'
       },
       {
         name: "Brave Shine",
         artist: 'Aimer',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimer-Brave Shine.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimer-Brave Shine.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/Aimer.jpg'
       },
       {
         name: "Ref：rain",
         artist: 'Aimer',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimer-Ref：rain.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimer-Ref：rain.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/Aimer.jpg'
+      },
+      {
+        name: "ninelie",
+        artist: 'Aimer&chelly',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimer&chelly-ninelie.mp3',
+        lrc: '/music_lrcover/japanese_lrc/Aimer&chelly-ninelie.lrc',
+		cover: '/images/album/Aimer.jpg'
+      },
+      {
+        name: "STAND ALONE",
+        artist: 'Aimer',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimer-STAND-ALONE.mp3',
+        lrc: '/music_lrcover/japanese_lrc/Aimer-STAND-ALONE.lrc',
+		cover: '/images/album/Aimer.jpg'
       },
       {
         name: "ハルノヒ",
         artist: 'Aimyon',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimyon-ハルノヒ.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimyon-ハルノヒ.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/aimyon.png'
       },
       {
         name: "君はロックを聴かない",
         artist: 'Aimyon',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimyon-君はロックを聴かない.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimyon-君はロックを聴かない.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/aimyon.png'
       },
       {
         name: "生きていたんだよな",
         artist: 'Aimyon',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimyon-生きていたんだよな.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimyon-生きていたんだよな.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/aimyon.png'
       },
       {
         name: "空の青さを知る人よ",
         artist: 'Aimyon',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimyon-空の青さを知る人よ.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimyon-空の青さを知る人よ.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/aimyon.png'
       },
       {
         name: "裸の心",
         artist: 'Aimyon',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimyon-裸の心.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimyon-裸の心.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/aimyon.png'
+      },
+      {
+        name: "マリーゴールド",
+        artist: 'Aimyon',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimyon-マリーゴールド.mp3',
+        lrc: '/music_lrcover/japanese_lrc/Aimyon-マリーゴールド.lrc',
+		cover: '/images/album/music.png'
       },
       {
         name: "炎",
@@ -143,21 +185,56 @@ const japanese = new APlayer({
         artist: 'YOASOBI',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI&ayase-群青.mp3',
         lrc: '/music_lrcover/japanese_lrc/YOASOBI&ayase-群青.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/yoasobi.jpg'
       },
       {
         name: "あの夢をなぞって",
         artist: 'YOASOBI',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI-あの夢をなぞって.mp3',
         lrc: '/music_lrcover/japanese_lrc/YOASOBI-あの夢をなぞって.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/yoasobi.jpg'
       },
       {
         name: "夜に駆ける",
         artist: 'YOASOBI',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI-夜に駆ける.mp3',
         lrc: '/music_lrcover/japanese_lrc/YOASOBI-夜に駆ける.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/yoasobi.jpg'
+      },
+      {
+        name: "ハルカ",
+        artist: 'YOASOBI',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI-ハルカ.mp3',
+        lrc: '/music_lrcover/japanese_lrc/YOASOBI-ハルカ.lrc',
+		cover: '/images/album/yoasobi.jpg'
+      },
+      {
+        name: "ハルジオン",
+        artist: 'YOASOBI',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI-ハルジオン.mp3',
+        lrc: '/music_lrcover/japanese_lrc/YOASOBI-ハルジオン.lrc',
+		cover: '/images/album/yoasobi.jpg'
+      },
+      {
+        name: "たぶん",
+        artist: 'YOASOBI',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI-たぶん.mp3',
+        lrc: '/music_lrcover/japanese_lrc/YOASOBI-たぶん.lrc',
+		cover: '/images/album/yoasobi.jpg'
+      },
+      {
+        name: "優しい彗星",
+        artist: 'YOASOBI',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI-優しい彗星.mp3',
+        lrc: '/music_lrcover/japanese_lrc/YOASOBI-優しい彗星.lrc',
+		cover: '/images/album/yoasobi.jpg'
+      },
+      {
+        name: "怪物",
+        artist: 'YOASOBI',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/YOASOBI-怪物.mp3',
+        lrc: '/music_lrcover/japanese_lrc/YOASOBI-怪物.lrc',
+		cover: '/images/album/yoasobi.jpg'
       },
       {
         name: "花に亡霊",
@@ -199,28 +276,28 @@ const japanese = new APlayer({
         artist: '美波',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/美波-カワキヲアメク.mp3',
         lrc: '/music_lrcover/japanese_lrc/美波-カワキヲアメク.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/美波.jpg'
       },
       {
         name: "main actor",
         artist: '美波',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/美波-main actor.mp3',
         lrc: '/music_lrcover/japanese_lrc/美波-main actor.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/美波.jpg'
       },
       {
         name: "アメヲマツ、",
         artist: '美波',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/美波-アメヲマツ、.mp3',
         lrc: '/music_lrcover/japanese_lrc/美波-アメヲマツ、.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/美波.jpg'
       },
       {
         name: "ライラック",
         artist: '美波',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/美波-ライラック.mp3',
         lrc: '/music_lrcover/japanese_lrc/美波-ライラック.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/美波.jpg'
       },
       {
         name: "祝祭",
@@ -242,6 +319,34 @@ const japanese = new APlayer({
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/椎名豪&中川奈美-竈門炭治郎のうた(OST ver.).mp3',
         lrc: '/music_lrcover/japanese_lrc/椎名豪&中川奈美-竈門炭治郎のうた(OST ver.).lrc',
 		cover: '/images/album/music.jpg'
+      },
+      {
+        name: "うっせぇわ",
+        artist: 'Ado',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Ado-うっせぇわ.mp3',
+        lrc: '/music_lrcover/japanese_lrc/Ado-うっせぇわ.lrc',
+		cover: '/images/album/ado.jpg'
+      },
+      {
+        name: "レディメイド",
+        artist: 'Ado',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Ado-レディメイド.mp3',
+        lrc: '/music_lrcover/japanese_lrc/Ado-レディメイド.lrc',
+		cover: '/images/album/ado.jpg'
+      },
+      {
+        name: "ギラギラ",
+        artist: 'Ado',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Ado-ギラギラ.mp3',
+        lrc: '/music_lrcover/japanese_lrc/Ado-ギラギラ.lrc',
+		cover: '/images/album/ado.jpg'
+      },
+      {
+        name: "踊",
+        artist: 'Ado',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Ado-踊.mp3',
+        lrc: '/music_lrcover/japanese_lrc/Ado-踊.lrc',
+		cover: '/images/album/ado.jpg'
       }
 
     ]
