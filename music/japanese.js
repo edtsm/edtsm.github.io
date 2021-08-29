@@ -24,28 +24,28 @@ const japanese = new APlayer({
         artist: 'ツユ',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/ツユ-あの世行きのバスに乗ってさらば。.mp3',
         lrc: '/music_lrcover/japanese_lrc/ツユ-あの世行きのバスに乗ってさらば。.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/ツユ.jpg'
       },
       {
         name: "くらべられっ子",
         artist: 'ツユ',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/ツユ-くらべられっ子.mp3',
         lrc: '/music_lrcover/japanese_lrc/ツユ-くらべられっ子.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/ツユ.jpg'
       },
       {
         name: "やっぱり雨は降るんだね",
         artist: 'ツユ',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/ツユ-やっぱり雨は降るんだね.mp3',
         lrc: '/music_lrcover/japanese_lrc/ツユ-やっぱり雨は降るんだね.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/ツユ.jpg'
       },
       {
         name: "雨を浴びる",
         artist: 'ツユ',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/ツユ-雨を浴びる.mp3',
         lrc: '/music_lrcover/japanese_lrc/ツユ-雨を浴びる.lrc',
-		cover: '/images/album/music.jpg'
+		cover: '/images/album/ツユ.jpg'
       },
       {
         name: "虹 (STAND BY ME 2 主題曲)",
@@ -143,7 +143,7 @@ const japanese = new APlayer({
         artist: 'Aimyon',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/Japanese/Aimyon-マリーゴールド.mp3',
         lrc: '/music_lrcover/japanese_lrc/Aimyon-マリーゴールド.lrc',
-		cover: '/images/album/music.png'
+		cover: '/images/album/aimyon.png'
       },
       {
         name: "炎",
