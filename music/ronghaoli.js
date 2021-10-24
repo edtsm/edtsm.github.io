@@ -90,24 +90,10 @@ const ronghaoli = new APlayer({
 		cover: '/images/album/ronghaoli.jpg'
       },
       {
-        name: "不將就",
-        artist: '李榮浩',
-        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/李榮浩/李榮浩-不將就.mp3',
-        lrc: '/music_lrcover/ronghaoli_lrc/李榮浩-不將就.lrc',
-		cover: '/images/album/ronghaoli.jpg'
-      },
-      {
         name: "在一起嘛好不好",
         artist: '李榮浩',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/李榮浩/李榮浩-在一起嘛好不好.mp3',
         lrc: '/music_lrcover/ronghaoli_lrc/李榮浩-在一起嘛好不好.lrc',
-		cover: '/images/album/ronghaoli.jpg'
-      },
-      {
-        name: "不說 (路過版)",
-        artist: '李榮浩',
-        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/李榮浩/李榮浩-不說(路過版).mp3',
-        lrc: '/music_lrcover/ronghaoli_lrc/李榮浩-不說(路過版).lrc',
 		cover: '/images/album/ronghaoli.jpg'
       },
       {
@@ -199,13 +185,6 @@ const ronghaoli = new APlayer({
         artist: '李榮浩',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/李榮浩/李榮浩-哎呀.mp3',
         lrc: '/music_lrcover/ronghaoli_lrc/李榮浩-哎呀.lrc',
-		cover: '/images/album/ronghaoli.jpg'
-      },
-      {
-        name: "不將就",
-        artist: '李榮浩',
-        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/李榮浩/李榮浩-不將就.mp3',
-        lrc: '/music_lrcover/ronghaoli_lrc/李榮浩-不將就.lrc',
 		cover: '/images/album/ronghaoli.jpg'
       },
       {

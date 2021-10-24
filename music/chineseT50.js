@@ -31,7 +31,7 @@ const chinese = new APlayer({
 		cover: '/images/album/kkbox.jpg'
       },
 	  {
-        name: '貪,
+        name: '貪',
         artist: '艾怡良',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/017. 艾怡良 - 貪.mp3',
 		cover: '/images/album/kkbox.jpg'

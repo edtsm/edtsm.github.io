@@ -170,7 +170,8 @@ const nineoneone = new APlayer({
         name: "癡人說夢",
         artist: '玖壹壹',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/911/玖壹壹-癡人說夢.mp3',
-		cover: '/images/album/kkbox.jpg'
+        lrc: '/music_lrcover/911_lrc/玖壹壹-癡人說夢.lrc',
+		cover: '/images/album/911.jpg'
       }
 
 
