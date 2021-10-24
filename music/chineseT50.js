@@ -13,6 +13,78 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "玻璃心",
+        artist: '黃明志, 陳芳語',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/001. 黃明志, 陳芳語 - 玻璃心 (feat. 陳芳語).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '彼得潘',
+        artist: '蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/002. 蕭敬騰 - 彼得潘.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "最悲傷的事 (比悲傷更悲傷的故事影集版主題曲)",
+        artist: 'A-Lin',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/009. A-Lin - 最悲傷的事 (比悲傷更悲傷的故事影集版主題曲).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '貪,
+        artist: '艾怡良',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/017. 艾怡良 - 貪.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "心悶",
+        artist: '美秀集團',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/025. 美秀集團 - 心悶.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "明明就很ㄍㄧㄥ但我還是喜歡妳",
+        artist: '洋蔥',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/029. 洋蔥 - 明明就很ㄍㄧㄥ但我還是喜歡妳.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '偷走青春的歲月',
+        artist: '李佳歡',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/039. 李佳歡 - 偷走青春的歲月.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "倫敦的愛情",
+        artist: '藍又時',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/020. 藍又時 - 倫敦的愛情.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '真的傻 (電影一吻定情追愛版主題曲)',
+        artist: '徐佳瑩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/042. 徐佳瑩 - 真的傻 (電影一吻定情追愛版主題曲).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "燒",
+        artist: '戴愛玲(ft. 熊仔)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/008. 戴愛玲 - 燒 (feat. 熊仔).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: 'Pull Up',
+        artist: 'PANTHEPACK',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. PANTHEPACK - Pull Up.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "下單 我的愛",
+        artist: '張語噥, 鼓鼓 呂思緯',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/050. 張語噥, 鼓鼓 呂思緯 - 下單 我的愛 (feat. 鼓鼓 呂思緯).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
         name: "終究還是因為愛",
         artist: 'TRASH 樂團',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/001. TRASH 樂團 - 終究還是因為愛.mp3',

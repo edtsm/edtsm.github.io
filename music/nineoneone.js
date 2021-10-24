@@ -165,6 +165,12 @@ const nineoneone = new APlayer({
         url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/911/玖壹壹-討債情歌.mp3',
         lrc: '/music_lrcover/911_lrc/玖壹壹-討債情歌.lrc',
 		cover: '/images/album/911.jpg'
+      },
+      {
+        name: "癡人說夢",
+        artist: '玖壹壹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/911/玖壹壹-癡人說夢.mp3',
+		cover: '/images/album/kkbox.jpg'
       }
 
 

@@ -418,6 +418,76 @@ const jay = new APlayer({
         lrc: '/music_lrcover/jay_lrc/周杰倫-竊愛.lrc',
 		cover: '/images/album/jay.jpg'
       },
+      {
+        name: "四面楚歌",
+        artist: '周杰倫&林邁可',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫&林邁可-四面楚歌.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫&林邁可-四面楚歌.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "我要夏天",
+        artist: '周杰倫&楊瑞代',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫&楊瑞代-我要夏天.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫&楊瑞代-我要夏天.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "Now You See Me",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-Now You See Me.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-Now You See Me.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "一口氣全念對",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-一口氣全念對.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-一口氣全念對.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "止戰之殤",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-止戰之殤.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-止戰之殤.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "本草綱目",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-本草綱目.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-本草綱目.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "我是如此相信",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-我是如此相信.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-我是如此相信.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "美人魚",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-美人魚.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-美人魚.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "陽明山",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-陽明山.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-陽明山.lrc',
+		cover: '/images/album/jay.jpg'
+      },
+      {
+        name: "鞋子特大號",
+        artist: '周杰倫',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/artists/周杰倫/周杰倫-鞋子特大號.mp3',
+        lrc: '/music_lrcover/jay_lrc/周杰倫-鞋子特大號.lrc',
+		cover: '/images/album/jay.jpg'
+      }
 
     ]
 });
