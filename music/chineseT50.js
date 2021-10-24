@@ -13,6 +13,156 @@ const chinese = new APlayer({
     lrcType: 0,
     audio: [
       {
+        name: "終究還是因為愛",
+        artist: 'TRASH 樂團',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/001. TRASH 樂團 - 終究還是因為愛.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '不搖滾',
+        artist: '八三夭 (831), 告五人',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/017. 八三夭 (831), 告五人 - 不搖滾 (feat. 告五人).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "續寫 (電視劇一生一世主題曲)",
+        artist: '單依純',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/025. 單依純 - 續寫 (電視劇一生一世主題曲).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "Always Be My Always",
+        artist: '陳芳語',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/046. 陳芳語 - Always Be My Always.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "癡人說夢",
+        artist: '玖壹壹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/008. 玖壹壹 - 癡人說夢.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '門前雪',
+        artist: '于文文',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/010. 于文文 - 門前雪.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "山川",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/015. 李榮浩 - 山川.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "城裡的月光2021",
+        artist: '華研眾星 動力火車、林宥嘉、周蕙、郁可唯、閻奕格、文慧如,李友廷、陳昊森、F.I.R.韓睿',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/017. 華研眾星 動力火車、林宥嘉、周蕙、郁可唯、閻奕格、文慧如,李友廷、陳昊森、F.I.R.韓睿 - 城裡的月光2021.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "零距離",
+        artist: '五堅情 (邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/023. 五堅情 (邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩) - 零距離.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '再也沒有你',
+        artist: '梁心頤(ft. 陳勢安)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/025. 梁心頤 - 再也沒有你 (feat. 陳勢安).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "sorry青春",
+        artist: '魚丁糸',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/033. 魚丁糸 - sorry青春.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "Mr. Tambourine Man",
+        artist: '韋禮安',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/048. 韋禮安 - Mr. Tambourine Man.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "雛形",
+        artist: '徐佳瑩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/015. 徐佳瑩 - 雛形.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: 'Doubt',
+        artist: '高爾宣 OSN, 李浩瑋',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/020. 高爾宣 OSN, 李浩瑋 - Doubt.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "BUZZ",
+        artist: 'PANTHEPACK',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/047. PANTHEPACK - BUZZ.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "今天,半永久",
+        artist: '梁靜茹',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/048. 梁靜茹 - 今天,半永久.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "要怎麼告訴你我多喜歡",
+        artist: '魏嘉瑩（ft. 理想混蛋 雞丁）',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/004. 魏嘉瑩 - 要怎麼告訴你我多喜歡（feat. 理想混蛋 雞丁）.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '精神分裂',
+        artist: '吳卓源',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/011. 吳卓源 - 精神分裂.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "我就想你",
+        artist: '理想混蛋',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/040. 理想混蛋 - 我就想你.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "最好的結局",
+        artist: '八三夭 (831)',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/044. 八三夭 (831) - 最好的結局.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "你好嗎",
+        artist: '魏嘉瑩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/001. 魏嘉瑩 - 你好嗎.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+	  {
+        name: '已讀不回 94 我',
+        artist: '蕭敬騰',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/008. 蕭敬騰 - 已讀不回 94 我.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "我們好好的",
+        artist: '李榮浩',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/014. 李榮浩 - 我們好好的.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "海語者 (手機遊戲天諭主題曲)",
+        artist: 'A-Lin',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/038. A-Lin - 海語者 (手機遊戲天諭主題曲).mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
+        name: "No Name - EP Version",
+        artist: '高爾宣 OSN',
+        url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/049. 高爾宣 OSN - No Name - EP Version.mp3',
+		cover: '/images/album/kkbox.jpg'
+      },
+      {
         name: "蚵仔麵線",
         artist: '琳誼 Ring',
         url: 'https://notp.ddns.net/wordpress/wp-content/music/ChineseT50/002. 琳誼 Ring - 蚵仔麵線.mp3',
